@@ -1,0 +1,2 @@
+PASS image adjust: 256 values x 25 settings, random RGB, clamps, neutral identity, three-stage sync/blanking, frame-only updates and reset; 8818 samples compared
+tb_image_adjust.sv:98: $finish called at 88290000 (1ps)

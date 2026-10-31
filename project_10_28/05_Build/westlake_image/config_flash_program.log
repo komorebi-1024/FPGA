@@ -1,0 +1,23 @@
+RUN-1002 : start command "download -bit D:/p1/WestLake_AV/WestLake_AV/05_Build/westlake_image/westlake_image.bit -mode program_spi -v -spd 4 -cable 0"
+PRG-2014 : Chip validation success: EG4S20BG256
+PRG-1001 : SPI Flash ID is:  ef
+RUN-1002 : start command "bit_to_vec -chip EG4S20BG256 -m program_spi -freq 1.000000 -bit D:/p1/WestLake_AV/WestLake_AV/05_Build/westlake_image/westlake_image.bit"
+RUN-1003 : finish command "bit_to_vec -chip EG4S20BG256 -m program_spi -freq 1.000000 -bit D:/p1/WestLake_AV/WestLake_AV/05_Build/westlake_image/westlake_image.bit" in  1.886387s wall, 1.781250s user + 0.093750s system = 1.875000s CPU (99.4%)
+
+RUN-1004 : used memory is 247 MB, reserved memory is 243 MB, peak memory is 257 MB
+RUN-1002 : start command "program_spi -cable 0 -spd 4 -chip EG4S20BG256"
+RUN-1003 : finish command "program_spi -cable 0 -spd 4 -chip EG4S20BG256" in  111.462459s wall, 3.828125s user + 0.593750s system = 4.421875s CPU (4.0%)
+
+RUN-1004 : used memory is 247 MB, reserved memory is 243 MB, peak memory is 257 MB
+RUN-1002 : start command "bit_to_vec -chip EG4S20BG256 -m verify_spi -freq 1.000000 -bit D:/p1/WestLake_AV/WestLake_AV/05_Build/westlake_image/westlake_image.bit"
+RUN-1003 : finish command "bit_to_vec -chip EG4S20BG256 -m verify_spi -freq 1.000000 -bit D:/p1/WestLake_AV/WestLake_AV/05_Build/westlake_image/westlake_image.bit" in  0.633813s wall, 0.609375s user + 0.031250s system = 0.640625s CPU (101.1%)
+
+RUN-1004 : used memory is 154 MB, reserved memory is 145 MB, peak memory is 257 MB
+RUN-1002 : start command "program -cable 0 -spd 4"
+RUN-1003 : finish command "program -cable 0 -spd 4" in  27.808689s wall, 0.343750s user + 0.031250s system = 0.375000s CPU (1.3%)
+
+RUN-1004 : used memory is 179 MB, reserved memory is 172 MB, peak memory is 257 MB
+RUN-1003 : finish command "download -bit D:/p1/WestLake_AV/WestLake_AV/05_Build/westlake_image/westlake_image.bit -mode program_spi -v -spd 4 -cable 0" in  146.290017s wall, 7.750000s user + 0.843750s system = 8.593750s CPU (5.9%)
+
+RUN-1004 : used memory is 179 MB, reserved memory is 172 MB, peak memory is 257 MB
+WL_FLASH_DONE

@@ -1,0 +1,23 @@
+RUN-1002 : start command "list_cable"
+PRG-1000 : Connect device:
+0:EG4S20BG256
+
+RUN-1003 : finish command "list_cable" in  0.053682s wall, 0.000000s user + 0.000000s system = 0.000000s CPU (n/a%)
+
+RUN-1004 : used memory is 25 MB, reserved memory is 10 MB, peak memory is 25 MB
+RUN-1002 : start command "read_device_id -cable 0"
+EG4S20BG256
+RUN-1003 : finish command "read_device_id -cable 0" in  0.032102s wall, 0.000000s user + 0.015625s system = 0.015625s CPU (48.7%)
+
+RUN-1004 : used memory is 25 MB, reserved memory is 10 MB, peak memory is 25 MB
+ONLINE_FPGA=EG4S20BG256
+RUN-1002 : start command "get_flash_manufacturer -cable 0 -spd 4"
+PRG-1001 : Online device is:  EG4S20BG256
+Manufacturer ID     : ef
+Interface type      : 40
+Density and Feature : 15
+
+RUN-1003 : finish command "get_flash_manufacturer -cable 0 -spd 4" in  6.434470s wall, 0.046875s user + 0.000000s system = 0.046875s CPU (0.7%)
+
+RUN-1004 : used memory is 25 MB, reserved memory is 10 MB, peak memory is 28 MB
+WL_FLASH_DONE

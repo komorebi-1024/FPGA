@@ -1,0 +1,11 @@
+{
+  "result": "FLASH_PROGRAM_AND_VERIFY_PASS",
+  "bitstream": "D:\\p1\\WestLake_AV\\WestLake_AV\\05_Build\\westlake_image\\westlake_image.bit",
+  "bitstream_sha256": "8474f1a35fb50d0a8e50095f12c292352d54e5102ff7d48ac44b7f25ce68dc85",
+  "original_backup": "D:\\p1\\WestLake_AV\\WestLake_AV\\05_Build\\config_flash_before_rubric.bin",
+  "original_backup_sha256": "b24ac3edc630968a7f3c6b83455ffcaf2996fc0a6c400b763ee3008ec7c43499",
+  "device": "EF4015",
+  "cold_start": "USER_CONFIRMED_PASS",
+  "cold_start_date": "2026-10-28",
+  "cold_start_evidence": "User confirmed complete power removal including USB, no redownload, normal audiovisual startup, neutral defaults (brightness 0 / contrast 100%), image settings menu and adjustment."
+}

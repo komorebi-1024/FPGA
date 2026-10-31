@@ -1,0 +1,26 @@
+[
+  {
+    "slot": "music01",
+    "isrc": "USUAN1100787",
+    "source_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Gymnopedie%20No%201.mp3",
+    "work_page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100787",
+    "author": "Kevin MacLeod",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "gain_db": -5.9,
+    "source_sha256": "8cba6bb3da51066ad39520ec218a327bb6222d8fb32bc52f28a1e90b67756f70",
+    "wav_sha256": "19467d203522f948604eda712dcac7448e425fb40f89f739a92b233b5a7401b5"
+  },
+  {
+    "slot": "music02",
+    "isrc": "USUAN1400037",
+    "source_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Carefree.mp3",
+    "work_page": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400037",
+    "author": "Kevin MacLeod",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "gain_db": -2.6,
+    "source_sha256": "8433b770a630d9b1594fd484442c677907ece899a4d149954cd2e74fd733e311",
+    "wav_sha256": "f2587bc2c1fc85b121c39190eb17b0ea851312dd863b083ab5c31267da4316dc"
+  }
+]

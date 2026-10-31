@@ -1,0 +1,16 @@
+{
+  "package_date": "2026-10-31",
+  "version": "westlake_image",
+  "project_acceptance_date": "2026-10-28",
+  "copied_original_files": 354,
+  "formal_project_references_checked": 70,
+  "copied_file_sha256": "PASS",
+  "copied_build_source_guard": "PASS",
+  "bitstream_sha256": "8474f1a35fb50d0a8e50095f12c292352d54e5102ff7d48ac44b7f25ce68dc85",
+  "sd_image_sha256": "361244f5724d5c983b8015e9f22630dfd6fe640aa971bdaa1aa375ec6487b36a",
+  "original_files_modified": false,
+  "hardware_write_performed": false,
+  "contains_official_template_report": false,
+  "contains_real_device_demo_video": false,
+  "archive_entry_sha256": "PASS"
+}

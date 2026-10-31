@@ -1,0 +1,3 @@
+
+PASS voice stream: 1161 exact PCM samples, pop-aligned three-sentence subtitles, chime priority, music pause/resume, same-stop replay and in-flight cancel; 97 image/83 music sectors
+D:\p1\WestLake_AV\WestLake_AV\04_Sim\tb_voice_stream.sv:200: $finish called at 31833421000 (1ps)

@@ -1,0 +1,157 @@
+{
+  "sample_rate": 48000,
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "synthesized": true,
+  "rate": "+20% relative to the original Huihui audition",
+  "target_speed_ratio": 1.2,
+  "calibration": "final_frames = round(original_Huihui_frames / 1.2)",
+  "inter_sentence_gap_frames": 4800,
+  "engine_rates": {
+    "station01.wav": "-13%",
+    "station02.wav": "-11%",
+    "station03.wav": "-11%",
+    "station04.wav": "-14%"
+  },
+  "stations": [
+    {
+      "id": 0,
+      "name": "少年宫（断桥）",
+      "wav": "station01.wav",
+      "segments": [
+        {
+          "text": "本站：少年宫（断桥）。",
+          "start_frame": 0,
+          "end_frame": 164464
+        },
+        {
+          "text": "烟雨断桥连白堤，一湖山色入画来。",
+          "start_frame": 164464,
+          "end_frame": 380992
+        },
+        {
+          "text": "请带好随身物品，有序下车。",
+          "start_frame": 380992,
+          "end_frame": 558010
+        }
+      ],
+      "engine_rate": "-13%",
+      "tempo_correction": [
+        0.99569095,
+        0.99569259,
+        0.99569535
+      ],
+      "reference_frames": 669612,
+      "target_frames": 558010,
+      "reference_seconds": 13.95025,
+      "seconds": 11.625208,
+      "actual_speed_ratio": 1.2,
+      "reference_sha256": "cd88d3911bac9ab2ea9f5c3d8f27d5fed9d5d5a0308af62ea94364dfc084b7c7",
+      "sha256": "bec45ceb00cdfc647029b669e18b5df115f019ddb27be4b5cf53df54d8707037"
+    },
+    {
+      "id": 1,
+      "name": "涌金门",
+      "wav": "station02.wav",
+      "segments": [
+        {
+          "text": "本站：涌金门。",
+          "start_frame": 0,
+          "end_frame": 121011
+        },
+        {
+          "text": "金牛卧波，柳影拂岸，湖光尽收眼底。",
+          "start_frame": 121011,
+          "end_frame": 353584
+        },
+        {
+          "text": "请带好随身物品，有序下车。",
+          "start_frame": 353584,
+          "end_frame": 526738
+        }
+      ],
+      "engine_rate": "-11%",
+      "tempo_correction": [
+        0.99130031,
+        0.99130274,
+        0.99130254
+      ],
+      "reference_frames": 632085,
+      "target_frames": 526738,
+      "reference_seconds": 13.168437,
+      "seconds": 10.973708,
+      "actual_speed_ratio": 1.199998860913775,
+      "reference_sha256": "b617034cba4241de8d783ff8cd8a5feaee186e2eb1d929e43635d3a133048f28",
+      "sha256": "7ba1b48f26d3b7d85cc87ac17e74f84daed9cb9bce718ddff1e08ff12f842375"
+    },
+    {
+      "id": 2,
+      "name": "雷峰塔",
+      "wav": "station03.wav",
+      "segments": [
+        {
+          "text": "本站：雷峰塔。",
+          "start_frame": 0,
+          "end_frame": 120130
+        },
+        {
+          "text": "雷峰塔影映湖山，登临远眺西湖风光。",
+          "start_frame": 120130,
+          "end_frame": 353283
+        },
+        {
+          "text": "请带好随身物品，有序下车。",
+          "start_frame": 353283,
+          "end_frame": 525125
+        }
+      ],
+      "engine_rate": "-11%",
+      "tempo_correction": [
+        0.9988728,
+        0.99887455,
+        0.99887106
+      ],
+      "reference_frames": 630150,
+      "target_frames": 525125,
+      "reference_seconds": 13.128125,
+      "seconds": 10.940104,
+      "actual_speed_ratio": 1.2,
+      "reference_sha256": "5c566924f69c879a5eda6e429be79193e928d5d76e55c08e7fac91170577876b",
+      "sha256": "50330bcef31be8d26ff880a9132794f5d92fa1cd889b9eed73629e1548729104"
+    },
+    {
+      "id": 3,
+      "name": "岳庙（跨虹桥）",
+      "wav": "station04.wav",
+      "segments": [
+        {
+          "text": "本站：岳庙（跨虹桥）。",
+          "start_frame": 0,
+          "end_frame": 164034
+        },
+        {
+          "text": "岳王庙前寻旧迹，读一段西湖人文。",
+          "start_frame": 164034,
+          "end_frame": 373069
+        },
+        {
+          "text": "请带好随身物品，有序下车。",
+          "start_frame": 373069,
+          "end_frame": 551918
+        }
+      ],
+      "engine_rate": "-14%",
+      "tempo_correction": [
+        0.99837974,
+        0.99837932,
+        0.99838411
+      ],
+      "reference_frames": 662301,
+      "target_frames": 551918,
+      "reference_seconds": 13.797937,
+      "seconds": 11.498292,
+      "actual_speed_ratio": 1.1999989128819861,
+      "reference_sha256": "9ea928bc54815d0f4eaf73a85d9fcd9a6b0ab8a96efbc07236006e7629cee701",
+      "sha256": "557a6750b9b314ce41db9a7f2c6339aeda254f9ce67678db34c7f8359ab8f941"
+    }
+  ]
+}

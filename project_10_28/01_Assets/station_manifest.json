@@ -1,0 +1,188 @@
+{
+  "catalog_lba": 2056,
+  "data_start": 6144,
+  "disk_sectors": 262144,
+  "num_stations": 4,
+  "promos_per_interval": 5,
+  "total": 24,
+  "stations": [
+    {
+      "id": 0,
+      "station": "少年宫（断桥）",
+      "next": "涌金门",
+      "subtitle": "烟雨断桥连白堤，一湖山色入画来。",
+      "bmp": "01_Assets\\TF_BMP\\01_duanqiao.bmp",
+      "sha256": "1d97e19e723f4b3031939019e80ad0e6e2c37e478e6b9acf4ff30453c3ebe542",
+      "lba": 6146
+    },
+    {
+      "id": 1,
+      "station": "涌金门",
+      "next": "雷峰塔",
+      "subtitle": "金牛卧波，柳影拂岸，湖光尽收眼底。",
+      "bmp": "01_Assets\\TF_BMP\\02_yongjinmen.bmp",
+      "sha256": "4d70e61878e632ade0fdcd3d60766fa70e622adbcc09aee347acd0904e006eae",
+      "lba": 7947
+    },
+    {
+      "id": 2,
+      "station": "雷峰塔",
+      "next": "岳庙（跨虹桥）",
+      "subtitle": "雷峰塔影映湖山，登临远眺西湖风光。",
+      "bmp": "01_Assets\\TF_BMP\\03_leifeng.bmp",
+      "sha256": "7f695b8d505dd2d7e6fb9c66b95a4f4fdd371c99c216db9395f5930623ab8db8",
+      "lba": 9748
+    },
+    {
+      "id": 3,
+      "station": "岳庙（跨虹桥）",
+      "next": "少年宫（断桥）",
+      "subtitle": "岳王庙前寻旧迹，读一段西湖人文。",
+      "bmp": "01_Assets\\TF_BMP\\04_yuemiao.bmp",
+      "sha256": "836ea1520da1b6ecb5ab47b144dd020dd03e3cd0345393103f8f0221e6f148b9",
+      "lba": 11549
+    }
+  ],
+  "promos": [
+    {
+      "interval": 0,
+      "seq": 0,
+      "bmp": "01_Assets\\TF_BMP\\promo_0_0.bmp",
+      "sha256": "cb136e83a5aa22b21e59180f8f6f993e52a006280a5041afa8fd6cb939df52af",
+      "lba": 13350
+    },
+    {
+      "interval": 0,
+      "seq": 1,
+      "bmp": "01_Assets\\TF_BMP\\promo_0_1.bmp",
+      "sha256": "5502c190bd363a3ed8fbc30d41bed8fdf10c6a9370e512ec03832c3cd1f13d22",
+      "lba": 15151
+    },
+    {
+      "interval": 0,
+      "seq": 2,
+      "bmp": "01_Assets\\TF_BMP\\promo_0_2.bmp",
+      "sha256": "575a71117e6c1d9de198d5d0846b0d880e937f2f7a9a151115149561f9a71c9f",
+      "lba": 16952
+    },
+    {
+      "interval": 0,
+      "seq": 3,
+      "bmp": "01_Assets\\TF_BMP\\promo_0_3.bmp",
+      "sha256": "ad2fdb03c130bb9010c97f67a46dd16f3b17de3e0586ae5101ee1aab5a2c8ae8",
+      "lba": 18753
+    },
+    {
+      "interval": 0,
+      "seq": 4,
+      "bmp": "01_Assets\\TF_BMP\\promo_0_4.bmp",
+      "sha256": "c3c7b629572d2b053044cf31fdd6b089f63b478ff0bfa46385b1dc38ee86654b",
+      "lba": 20554
+    },
+    {
+      "interval": 1,
+      "seq": 0,
+      "bmp": "01_Assets\\TF_BMP\\promo_1_0.bmp",
+      "sha256": "f629f6fb2284158518a2b63645fbc37eba8f7f7f99faedb6b064ae23c710d7b6",
+      "lba": 22355
+    },
+    {
+      "interval": 1,
+      "seq": 1,
+      "bmp": "01_Assets\\TF_BMP\\promo_1_1.bmp",
+      "sha256": "f93b01abd31157449be6b0184d6c2a3482a8fc0f469b2276cc9f61d33a6d035f",
+      "lba": 24156
+    },
+    {
+      "interval": 1,
+      "seq": 2,
+      "bmp": "01_Assets\\TF_BMP\\promo_1_2.bmp",
+      "sha256": "378194c94d56bc3d425a78ba9e443a81682fa627794a97d30e5f26ce953737e8",
+      "lba": 25957
+    },
+    {
+      "interval": 1,
+      "seq": 3,
+      "bmp": "01_Assets\\TF_BMP\\promo_1_3.bmp",
+      "sha256": "68d9a3db1988cabf30c9ff461c2075677d4aaf664d81e2b44fa86fc7b2f97490",
+      "lba": 27758
+    },
+    {
+      "interval": 1,
+      "seq": 4,
+      "bmp": "01_Assets\\TF_BMP\\promo_1_4.bmp",
+      "sha256": "0d0c09f6195131f11abd3d5e202e44cbce77fdb33574b3b49876f9c679d99975",
+      "lba": 29559
+    },
+    {
+      "interval": 2,
+      "seq": 0,
+      "bmp": "01_Assets\\TF_BMP\\promo_2_0.bmp",
+      "sha256": "ab2dc4ab78a142b86645eabc468ad609f7763b892d43a3ceebcc346e7acb29f7",
+      "lba": 31360
+    },
+    {
+      "interval": 2,
+      "seq": 1,
+      "bmp": "01_Assets\\TF_BMP\\promo_2_1.bmp",
+      "sha256": "e4d530771c8473c95c55f32633d71d23e2ec230fd22774ba18bbe00e7c181ba0",
+      "lba": 33161
+    },
+    {
+      "interval": 2,
+      "seq": 2,
+      "bmp": "01_Assets\\TF_BMP\\promo_2_2.bmp",
+      "sha256": "ba73448310d8e86a1afe945708d566a803261ae55f664e5261a2961fae0a01c8",
+      "lba": 34962
+    },
+    {
+      "interval": 2,
+      "seq": 3,
+      "bmp": "01_Assets\\TF_BMP\\promo_2_3.bmp",
+      "sha256": "8c116aa1d2a06fb6317ee265d0217dc3b3b632cdab1e15b90e2bd34ba9266375",
+      "lba": 36763
+    },
+    {
+      "interval": 2,
+      "seq": 4,
+      "bmp": "01_Assets\\TF_BMP\\promo_2_4.bmp",
+      "sha256": "989dd8ebcf9538b0c4571352a17e3551187080bc48d27fe23d456f3478cbd804",
+      "lba": 38564
+    },
+    {
+      "interval": 3,
+      "seq": 0,
+      "bmp": "01_Assets\\TF_BMP\\promo_3_0.bmp",
+      "sha256": "b4cfef6931880cebb49d7dc24ad16f3304083e637e192496c9dbf441dccb8a3c",
+      "lba": 40365
+    },
+    {
+      "interval": 3,
+      "seq": 1,
+      "bmp": "01_Assets\\TF_BMP\\promo_3_1.bmp",
+      "sha256": "d03db825f48fec7fab48c217da689c25f9e36595aa1b8bc08746e0231d7e5645",
+      "lba": 42166
+    },
+    {
+      "interval": 3,
+      "seq": 2,
+      "bmp": "01_Assets\\TF_BMP\\promo_3_2.bmp",
+      "sha256": "1e56d66248165000a5751eeb19f09d65e7b56076cd304a5aaa6b2c234917b108",
+      "lba": 43967
+    },
+    {
+      "interval": 3,
+      "seq": 3,
+      "bmp": "01_Assets\\TF_BMP\\promo_3_3.bmp",
+      "sha256": "f026022de877e35febe7b85b51749f6686ac7f121e37ac736c363d80e582ac77",
+      "lba": 45768
+    },
+    {
+      "interval": 3,
+      "seq": 4,
+      "bmp": "01_Assets\\TF_BMP\\promo_3_4.bmp",
+      "sha256": "476d3806e30ab525a7f4fc2993098db85d3f111357252f50eb93deb482851e03",
+      "lba": 47569
+    }
+  ]
+}

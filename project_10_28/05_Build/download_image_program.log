@@ -1,0 +1,34 @@
+RUN-1002 : start command "list_cable"
+PRG-1000 : Connect device:
+0:EG4S20BG256
+
+RUN-1003 : finish command "list_cable" in  0.054207s wall, 0.015625s user + 0.000000s system = 0.015625s CPU (28.8%)
+
+RUN-1004 : used memory is 25 MB, reserved memory is 10 MB, peak memory is 25 MB
+RUN-1002 : start command "read_device_id -cable 0"
+EG4S20BG256
+RUN-1003 : finish command "read_device_id -cable 0" in  0.031282s wall, 0.015625s user + 0.000000s system = 0.015625s CPU (49.9%)
+
+RUN-1004 : used memory is 25 MB, reserved memory is 10 MB, peak memory is 25 MB
+WL_DEVICE_IDS=EG4S20BG256
+RUN-1002 : start command "download -bit D:/p1/WestLake_AV/WestLake_AV/05_Build/westlake_image/westlake_image.bit -mode jtag -spd 6 -cable 0"
+PRG-2014 : Chip validation success: EG4S20BG256
+RUN-1002 : start command "bit_to_vec -chip EG4S20BG256 -m jtag_burst -freq 3.000000 -bit D:/p1/WestLake_AV/WestLake_AV/05_Build/westlake_image/westlake_image.bit"
+RUN-1003 : finish command "bit_to_vec -chip EG4S20BG256 -m jtag_burst -freq 3.000000 -bit D:/p1/WestLake_AV/WestLake_AV/05_Build/westlake_image/westlake_image.bit" in  0.280778s wall, 0.265625s user + 0.015625s system = 0.281250s CPU (100.2%)
+
+RUN-1004 : used memory is 46 MB, reserved memory is 33 MB, peak memory is 61 MB
+RUN-1002 : start command "program -cable 0 -mode svf -spd 6 -p"
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+RUN-1003 : finish command "program -cable 0 -mode svf -spd 6 -p" in  6.959132s wall, 0.093750s user + 0.015625s system = 0.109375s CPU (1.6%)
+
+RUN-1004 : used memory is 31 MB, reserved memory is 16 MB, peak memory is 61 MB
+RUN-1003 : finish command "download -bit D:/p1/WestLake_AV/WestLake_AV/05_Build/westlake_image/westlake_image.bit -mode jtag -spd 6 -cable 0" in  7.336516s wall, 0.359375s user + 0.031250s system = 0.390625s CPU (5.3%)
+
+RUN-1004 : used memory is 31 MB, reserved memory is 17 MB, peak memory is 61 MB
+WL_PROGRAM_DONE

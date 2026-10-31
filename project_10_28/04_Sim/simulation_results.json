@@ -1,0 +1,167 @@
+[
+  {
+    "name": "control",
+    "pass": true,
+    "seconds": 1.92
+  },
+  {
+    "name": "framebuffer",
+    "pass": true,
+    "seconds": 27.93
+  },
+  {
+    "name": "key",
+    "pass": true,
+    "seconds": 0.42
+  },
+  {
+    "name": "status",
+    "pass": true,
+    "seconds": 0.67
+  },
+  {
+    "name": "media",
+    "pass": true,
+    "seconds": 440.3
+  },
+  {
+    "name": "audio",
+    "pass": true,
+    "seconds": 120.63
+  },
+  {
+    "name": "osd",
+    "pass": true,
+    "seconds": 70.45
+  },
+  {
+    "name": "transition",
+    "pass": true,
+    "seconds": 10.57
+  },
+  {
+    "name": "scene",
+    "pass": true,
+    "seconds": 0.34
+  },
+  {
+    "name": "audio_fifo",
+    "pass": true,
+    "seconds": 0.15
+  },
+  {
+    "name": "sd_arbiter",
+    "pass": true,
+    "seconds": 0.13
+  },
+  {
+    "name": "spectrum_overlay",
+    "pass": true,
+    "seconds": 45.41
+  },
+  {
+    "name": "music_reader",
+    "pass": true,
+    "seconds": 0.72
+  },
+  {
+    "name": "music_pcm",
+    "pass": true,
+    "seconds": 1.79
+  },
+  {
+    "name": "spectrum",
+    "pass": true,
+    "seconds": 92.66
+  },
+  {
+    "name": "music_stream",
+    "pass": true,
+    "seconds": 42.21
+  },
+  {
+    "name": "music_menu",
+    "pass": true,
+    "seconds": 60.9
+  },
+  {
+    "name": "audio_diagnostic",
+    "pass": true,
+    "seconds": 2.35
+  },
+  {
+    "name": "fade_lookup",
+    "pass": true,
+    "seconds": 0.13
+  },
+  {
+    "name": "transition_pipeline",
+    "pass": true,
+    "seconds": 14.6
+  },
+  {
+    "name": "voice_reader",
+    "pass": true,
+    "seconds": 3.0
+  },
+  {
+    "name": "voice_ctrl",
+    "pass": true,
+    "seconds": 0.51
+  },
+  {
+    "name": "voice_stream",
+    "pass": true,
+    "seconds": 50.43
+  },
+  {
+    "name": "station_hold",
+    "pass": true,
+    "seconds": 0.4
+  },
+  {
+    "name": "voice_osd",
+    "pass": true,
+    "seconds": 165.73
+  },
+  {
+    "name": "station_departure",
+    "pass": true,
+    "seconds": 0.12
+  },
+  {
+    "name": "arrival_audio_gate",
+    "pass": true,
+    "seconds": 0.5
+  },
+  {
+    "name": "key_gesture",
+    "pass": true,
+    "seconds": 0.13
+  },
+  {
+    "name": "image_ui_ctrl",
+    "pass": true,
+    "seconds": 2.15
+  },
+  {
+    "name": "image_adjust",
+    "pass": true,
+    "seconds": 2.61
+  },
+  {
+    "name": "image_controls",
+    "pass": true,
+    "seconds": 0.17
+  },
+  {
+    "name": "image_settings_overlay",
+    "pass": true,
+    "seconds": 112.73
+  },
+  {
+    "name": "image_config_cdc",
+    "pass": true,
+    "seconds": 0.14
+  }
+]

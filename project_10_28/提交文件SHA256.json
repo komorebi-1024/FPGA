@@ -1,0 +1,1782 @@
+[
+  {
+    "path": "00_Docs/图像参数开发记录.md",
+    "bytes": 5941,
+    "sha256": "953797593dc408222f6ca0e279d7b0351b1eb5f0170dcef57193351df2067276"
+  },
+  {
+    "path": "00_Docs/评分标准对照与演示.md",
+    "bytes": 6933,
+    "sha256": "ebbbc2c5104f59308f3b3a6a71f9f0dd3ac76e1642cccc770d07621026e83462"
+  },
+  {
+    "path": "00_Docs/语音开发记录.md",
+    "bytes": 7268,
+    "sha256": "a0d1005adf347bd4fc90e31bc59235d016411430dd4694813aae6e10ee628ea7"
+  },
+  {
+    "path": "00_Docs/转场问题修复记录.md",
+    "bytes": 2145,
+    "sha256": "6075896e03b856a0e21f76a128bb4e6f9d4efd89b120d9ecdba0cfbca6699d37"
+  },
+  {
+    "path": "00_Docs/音频开发记录.md",
+    "bytes": 8629,
+    "sha256": "1752dd628934618bac5b8eeeacaec0a62624172a4eb33b062bfa9d8da7932bb5"
+  },
+  {
+    "path": "01_Assets/Audio/music01.wav",
+    "bytes": 35921166,
+    "sha256": "19467d203522f948604eda712dcac7448e425fb40f89f739a92b233b5a7401b5"
+  },
+  {
+    "path": "01_Assets/Audio/music02.wav",
+    "bytes": 39386882,
+    "sha256": "f2587bc2c1fc85b121c39190eb17b0ea851312dd863b083ab5c31267da4316dc"
+  },
+  {
+    "path": "01_Assets/Audio/music_sources.json",
+    "bytes": 1170,
+    "sha256": "9bea40f51f6142e45aad9e515587e3162b505c8c2dcd08b11054bb448ca339ca"
+  },
+  {
+    "path": "01_Assets/Audio/README.md",
+    "bytes": 1881,
+    "sha256": "b820a7155dec5b7103134e265dbf37a60cb002a5e5250950501520fa2082e076"
+  },
+  {
+    "path": "01_Assets/Audio/Sources/Carefree.mp3",
+    "bytes": 6566713,
+    "sha256": "8433b770a630d9b1594fd484442c677907ece899a4d149954cd2e74fd733e311"
+  },
+  {
+    "path": "01_Assets/Audio/Sources/Gymnopedie No 1.mp3",
+    "bytes": 7487656,
+    "sha256": "8cba6bb3da51066ad39520ec218a327bb6222d8fb32bc52f28a1e90b67756f70"
+  },
+  {
+    "path": "01_Assets/Audio/Sources/license_evidence.txt",
+    "bytes": 347,
+    "sha256": "2ec596a53e85b8759b087067d8cf82a549a25f81bfe8db65dbdf5db36a84f152"
+  },
+  {
+    "path": "01_Assets/Audio/Sources/official_track_records.json",
+    "bytes": 1308,
+    "sha256": "3d0a7a73df879c68b1d990320e4016223b60f18b8ad72bd3162da13d2e0d6167"
+  },
+  {
+    "path": "01_Assets/Audio/音乐来源与许可.md",
+    "bytes": 1476,
+    "sha256": "17c9dac51ebab50cd7fba15f4087528aee9622edce446deab46373d1dcdaa51e"
+  },
+  {
+    "path": "01_Assets/Original/01_duanqiao.jpg",
+    "bytes": 2853358,
+    "sha256": "eea668129e2e899452b1e6979c4ac2ad89dae098f560a414336b7e13b032ed6f"
+  },
+  {
+    "path": "01_Assets/Original/02_yongjinmen.jpg",
+    "bytes": 3848921,
+    "sha256": "279259333f8e9b339052ce77eff053453613f4165cefe15a58052080af45c802"
+  },
+  {
+    "path": "01_Assets/Original/03_leifeng.jpg",
+    "bytes": 5018957,
+    "sha256": "c6b907339b2516108fba8a5e5109981d2c04295362961d8935e5a8cd4b60d343"
+  },
+  {
+    "path": "01_Assets/Original/04_yuemiao.jpg",
+    "bytes": 6627472,
+    "sha256": "b0fd7f084057009dff9f489b6f838573a9d676d27e8d0d8a9d7c51a4eeea2194"
+  },
+  {
+    "path": "01_Assets/Original/promo_0_0.jpg",
+    "bytes": 88618,
+    "sha256": "dc7242252ee16df76fb8d0ed46739bc284f7bfc80a4af209e1508e06640ad04c"
+  },
+  {
+    "path": "01_Assets/Original/promo_0_1.jpg",
+    "bytes": 127041,
+    "sha256": "b1b2a41b4082273d2776890da2f8cb6d53a4112bbcbd66b1e86f847c8a5c3a90"
+  },
+  {
+    "path": "01_Assets/Original/promo_0_2.jpg",
+    "bytes": 151057,
+    "sha256": "bb4a0dfab04e745bc77956b1de1f1c335e31fffffc55ebde145aecc5cfcbf4c2"
+  },
+  {
+    "path": "01_Assets/Original/promo_0_3.jpg",
+    "bytes": 91411,
+    "sha256": "a06858d3328c3bb5181e07a6516ec5ce969aa4e3c33db73c9e11fcd697c584af"
+  },
+  {
+    "path": "01_Assets/Original/promo_0_4.jpg",
+    "bytes": 145898,
+    "sha256": "c518861501a499cd8404ab544a71ddd50abde5b96053eb6481af6564eae576c9"
+  },
+  {
+    "path": "01_Assets/Original/promo_1_0.jpg",
+    "bytes": 147041,
+    "sha256": "0111d2818fe7bf79e1dcd5d907373969962ed093a65b5f26d035d057fc34d627"
+  },
+  {
+    "path": "01_Assets/Original/promo_1_1.jpg",
+    "bytes": 112852,
+    "sha256": "6c4c8cdc74cbd0de6601e8b1f80972e74128ccdb065d89582ba07a8fa7f88259"
+  },
+  {
+    "path": "01_Assets/Original/promo_1_2.jpg",
+    "bytes": 148674,
+    "sha256": "10ccabd2e01ddd897062c06d38a6e17592fc41307fe6cfa4543b28be01b7a37e"
+  },
+  {
+    "path": "01_Assets/Original/promo_1_3.jpg",
+    "bytes": 136351,
+    "sha256": "d0d355fe5ecbdb48b6b58f242f870f67e60810c9ad2004f99c1b5ffae159d453"
+  },
+  {
+    "path": "01_Assets/Original/promo_1_4.jpg",
+    "bytes": 155687,
+    "sha256": "fa02c60b067ca9ffc1dc93cd81a19f90b2402dab84ead3e9a9c7d50cad582a63"
+  },
+  {
+    "path": "01_Assets/Original/promo_2_0.jpg",
+    "bytes": 116088,
+    "sha256": "7ab1f9e06e5eebc8da0e4cf19c7c1e8216ea190b2a6002dd9aabd88cc130b748"
+  },
+  {
+    "path": "01_Assets/Original/promo_2_1.jpg",
+    "bytes": 139999,
+    "sha256": "d08c42390cf0cd93576522860b0d0b5dcd9c364153d59f7dd6d0c18e01829cdc"
+  },
+  {
+    "path": "01_Assets/Original/promo_2_2.jpg",
+    "bytes": 151623,
+    "sha256": "c8f9272e1883b2bf101fa8660cd459c4da25a029e2f939a3fc8198e629fcbce7"
+  },
+  {
+    "path": "01_Assets/Original/promo_2_3.jpg",
+    "bytes": 97047,
+    "sha256": "793d02f0d25f7f43c63f70b476ef4508ede9a3eb32c58c001da5f99c2634d243"
+  },
+  {
+    "path": "01_Assets/Original/promo_2_4.jpg",
+    "bytes": 135817,
+    "sha256": "c3d03efae3d3c79a2a6995c391e1a1ae239fe63db590d136731bc80755075b00"
+  },
+  {
+    "path": "01_Assets/Original/promo_3_0.jpg",
+    "bytes": 141933,
+    "sha256": "de2e526bbc67f22a627133ea96f00884fd172e5f0ed15233b6670001e0486fe7"
+  },
+  {
+    "path": "01_Assets/Original/promo_3_1.jpg",
+    "bytes": 86867,
+    "sha256": "0155f23d0862b577ad0c120077c16a24bf77ba43175aa496378a633dec757767"
+  },
+  {
+    "path": "01_Assets/Original/promo_3_2.jpg",
+    "bytes": 143420,
+    "sha256": "d30d9d48527ee148ea9b942f4faeee33827d0d21b5413dc292e691a58e369f3c"
+  },
+  {
+    "path": "01_Assets/Original/promo_3_3.jpg",
+    "bytes": 146531,
+    "sha256": "00e008dd43d20c0d37694be2aac9d37dc0506f4a1abd9873d540219fef643414"
+  },
+  {
+    "path": "01_Assets/Original/promo_3_4.jpg",
+    "bytes": 156254,
+    "sha256": "c88ead80bf0d22e9337e637a45158312a902d13e9ddb4bc3501f966d57afd761"
+  },
+  {
+    "path": "01_Assets/photo_sources.json",
+    "bytes": 3133,
+    "sha256": "5fa1c1c43e1243a56baa27900156ce869b99f86d413ffa34fbd4a7d90bf20fae"
+  },
+  {
+    "path": "01_Assets/station_manifest.json",
+    "bytes": 5689,
+    "sha256": "975e4ba4040fd4861de203edf65cb23b30948b2a8300524f5fe735ead0d7510e"
+  },
+  {
+    "path": "01_Assets/TF_BMP/01_duanqiao.bmp",
+    "bytes": 921654,
+    "sha256": "1d97e19e723f4b3031939019e80ad0e6e2c37e478e6b9acf4ff30453c3ebe542"
+  },
+  {
+    "path": "01_Assets/TF_BMP/02_yongjinmen.bmp",
+    "bytes": 921654,
+    "sha256": "4d70e61878e632ade0fdcd3d60766fa70e622adbcc09aee347acd0904e006eae"
+  },
+  {
+    "path": "01_Assets/TF_BMP/03_leifeng.bmp",
+    "bytes": 921654,
+    "sha256": "7f695b8d505dd2d7e6fb9c66b95a4f4fdd371c99c216db9395f5930623ab8db8"
+  },
+  {
+    "path": "01_Assets/TF_BMP/04_yuemiao.bmp",
+    "bytes": 921654,
+    "sha256": "836ea1520da1b6ecb5ab47b144dd020dd03e3cd0345393103f8f0221e6f148b9"
+  },
+  {
+    "path": "01_Assets/TF_BMP/promo_0_0.bmp",
+    "bytes": 921654,
+    "sha256": "cb136e83a5aa22b21e59180f8f6f993e52a006280a5041afa8fd6cb939df52af"
+  },
+  {
+    "path": "01_Assets/TF_BMP/promo_0_1.bmp",
+    "bytes": 921654,
+    "sha256": "5502c190bd363a3ed8fbc30d41bed8fdf10c6a9370e512ec03832c3cd1f13d22"
+  },
+  {
+    "path": "01_Assets/TF_BMP/promo_0_2.bmp",
+    "bytes": 921654,
+    "sha256": "575a71117e6c1d9de198d5d0846b0d880e937f2f7a9a151115149561f9a71c9f"
+  },
+  {
+    "path": "01_Assets/TF_BMP/promo_0_3.bmp",
+    "bytes": 921654,
+    "sha256": "ad2fdb03c130bb9010c97f67a46dd16f3b17de3e0586ae5101ee1aab5a2c8ae8"
+  },
+  {
+    "path": "01_Assets/TF_BMP/promo_0_4.bmp",
+    "bytes": 921654,
+    "sha256": "c3c7b629572d2b053044cf31fdd6b089f63b478ff0bfa46385b1dc38ee86654b"
+  },
+  {
+    "path": "01_Assets/TF_BMP/promo_1_0.bmp",
+    "bytes": 921654,
+    "sha256": "f629f6fb2284158518a2b63645fbc37eba8f7f7f99faedb6b064ae23c710d7b6"
+  },
+  {
+    "path": "01_Assets/TF_BMP/promo_1_1.bmp",
+    "bytes": 921654,
+    "sha256": "f93b01abd31157449be6b0184d6c2a3482a8fc0f469b2276cc9f61d33a6d035f"
+  },
+  {
+    "path": "01_Assets/TF_BMP/promo_1_2.bmp",
+    "bytes": 921654,
+    "sha256": "378194c94d56bc3d425a78ba9e443a81682fa627794a97d30e5f26ce953737e8"
+  },
+  {
+    "path": "01_Assets/TF_BMP/promo_1_3.bmp",
+    "bytes": 921654,
+    "sha256": "68d9a3db1988cabf30c9ff461c2075677d4aaf664d81e2b44fa86fc7b2f97490"
+  },
+  {
+    "path": "01_Assets/TF_BMP/promo_1_4.bmp",
+    "bytes": 921654,
+    "sha256": "0d0c09f6195131f11abd3d5e202e44cbce77fdb33574b3b49876f9c679d99975"
+  },
+  {
+    "path": "01_Assets/TF_BMP/promo_2_0.bmp",
+    "bytes": 921654,
+    "sha256": "ab2dc4ab78a142b86645eabc468ad609f7763b892d43a3ceebcc346e7acb29f7"
+  },
+  {
+    "path": "01_Assets/TF_BMP/promo_2_1.bmp",
+    "bytes": 921654,
+    "sha256": "e4d530771c8473c95c55f32633d71d23e2ec230fd22774ba18bbe00e7c181ba0"
+  },
+  {
+    "path": "01_Assets/TF_BMP/promo_2_2.bmp",
+    "bytes": 921654,
+    "sha256": "ba73448310d8e86a1afe945708d566a803261ae55f664e5261a2961fae0a01c8"
+  },
+  {
+    "path": "01_Assets/TF_BMP/promo_2_3.bmp",
+    "bytes": 921654,
+    "sha256": "8c116aa1d2a06fb6317ee265d0217dc3b3b632cdab1e15b90e2bd34ba9266375"
+  },
+  {
+    "path": "01_Assets/TF_BMP/promo_2_4.bmp",
+    "bytes": 921654,
+    "sha256": "989dd8ebcf9538b0c4571352a17e3551187080bc48d27fe23d456f3478cbd804"
+  },
+  {
+    "path": "01_Assets/TF_BMP/promo_3_0.bmp",
+    "bytes": 921654,
+    "sha256": "b4cfef6931880cebb49d7dc24ad16f3304083e637e192496c9dbf441dccb8a3c"
+  },
+  {
+    "path": "01_Assets/TF_BMP/promo_3_1.bmp",
+    "bytes": 921654,
+    "sha256": "d03db825f48fec7fab48c217da689c25f9e36595aa1b8bc08746e0231d7e5645"
+  },
+  {
+    "path": "01_Assets/TF_BMP/promo_3_2.bmp",
+    "bytes": 921654,
+    "sha256": "1e56d66248165000a5751eeb19f09d65e7b56076cd304a5aaa6b2c234917b108"
+  },
+  {
+    "path": "01_Assets/TF_BMP/promo_3_3.bmp",
+    "bytes": 921654,
+    "sha256": "f026022de877e35febe7b85b51749f6686ac7f121e37ac736c363d80e582ac77"
+  },
+  {
+    "path": "01_Assets/TF_BMP/promo_3_4.bmp",
+    "bytes": 921654,
+    "sha256": "476d3806e30ab525a7f4fc2993098db85d3f111357252f50eb93deb482851e03"
+  },
+  {
+    "path": "01_Assets/TF卡文件名说明.md",
+    "bytes": 608,
+    "sha256": "035f99748466165676996bfee5091902e02502e70b3f27881ca9234d5884524c"
+  },
+  {
+    "path": "01_Assets/Voice/narration.json",
+    "bytes": 4677,
+    "sha256": "f905ed62a94d048e6f14f6dd0724cbe5304ac3831579655bd690809831bf7c8f"
+  },
+  {
+    "path": "01_Assets/Voice/README.md",
+    "bytes": 4836,
+    "sha256": "9f44edc195f707ff47aa555aee1802e606d0f08510ed958edfbeed2c86786a89"
+  },
+  {
+    "path": "01_Assets/Voice/script.json",
+    "bytes": 2238,
+    "sha256": "8a485153a194d293c3ceaed435451e9246bb9991734ef4254691aff64659ff74"
+  },
+  {
+    "path": "01_Assets/Voice/station01.wav",
+    "bytes": 2232084,
+    "sha256": "bec45ceb00cdfc647029b669e18b5df115f019ddb27be4b5cf53df54d8707037"
+  },
+  {
+    "path": "01_Assets/Voice/station02.wav",
+    "bytes": 2106996,
+    "sha256": "7ba1b48f26d3b7d85cc87ac17e74f84daed9cb9bce718ddff1e08ff12f842375"
+  },
+  {
+    "path": "01_Assets/Voice/station03.wav",
+    "bytes": 2100544,
+    "sha256": "50330bcef31be8d26ff880a9132794f5d92fa1cd889b9eed73629e1548729104"
+  },
+  {
+    "path": "01_Assets/Voice/station04.wav",
+    "bytes": 2207716,
+    "sha256": "557a6750b9b314ce41db9a7f2c6339aeda254f9ce67678db34c7f8359ab8f941"
+  },
+  {
+    "path": "01_Assets/WestLake_TF_128MiB.img",
+    "bytes": 134217728,
+    "sha256": "d6ce66b74032e3092972253fa9c948acd4c74317a8b1f975a78dbf30ab496ecc"
+  },
+  {
+    "path": "01_Assets/WestLake_TF_Audio_128MiB.img",
+    "bytes": 134217728,
+    "sha256": "2b50314f37d0a900c4790f6d6e1f4fb1cad16daab779719fc64bbf2c071b92fd"
+  },
+  {
+    "path": "01_Assets/WestLake_TF_Voice_128MiB.img",
+    "bytes": 134217728,
+    "sha256": "361244f5724d5c983b8015e9f22630dfd6fe640aa971bdaa1aa375ec6487b36a"
+  },
+  {
+    "path": "01_Assets/图片来源与字幕.md",
+    "bytes": 1870,
+    "sha256": "9e54eeceb3d176299d358d68c192785de6e51163b4ed6bb304db13f603454a82"
+  },
+  {
+    "path": "01_Run_Simulation.cmd",
+    "bytes": 160,
+    "sha256": "a4f21c89e5378af14211a66078e6c91862a8ded38da3c20ef1fcc18d171061a3"
+  },
+  {
+    "path": "02_Build_Project.cmd",
+    "bytes": 162,
+    "sha256": "1bdcf8aa3e90c74ec86b8abbd05c08e3e787e1a71395bf57b1f669bb7205e10e"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/.recent_user_depot.ini",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/al_ip/AUDIO_SAMPLE_ROM.ipc",
+    "bytes": 1166,
+    "sha256": "650ab6133bd5b35260d34e3e984d15f0bfb45b74b8a88d323d46bb4ceab6aacc"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/al_ip/AUDIO_SAMPLE_ROM.v",
+    "bytes": 1455,
+    "sha256": "0bc4a18dfd8d598103faea82e9f02a85beaba5a3e21047a4e6baab063ca005bd"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/al_ip/AUDIO_SAMPLE_ROM.vhd",
+    "bytes": 1621,
+    "sha256": "4c3d4ea17939b4d07a8d95c006174f94ced027b91daae5fd065e094d1e8071af"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/al_ip/PLL.ipc",
+    "bytes": 1511,
+    "sha256": "8cb6df3a1bb99cf2f95f9a535d7f33213b837207b36e336848a6ed0db29ab8b5"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/al_ip/PLL.v",
+    "bytes": 2438,
+    "sha256": "4e873eef9499fa93508d8cf2cac90eea0e16c6f649ae29502cdc4c5886cd32aa"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/al_ip/PLL.vhd",
+    "bytes": 2688,
+    "sha256": "e46792bb3d2b72621b18b323c472213fd5880eb29e5e85f0b7d50e5117e47494"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/al_ip/PLL_HDMI_AUDIO.ipc",
+    "bytes": 1841,
+    "sha256": "ce38f1b2917ef9df107be46e716767b7c8a78af079412b2988cf266b589bd645"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/al_ip/PLL_HDMI_AUDIO.v",
+    "bytes": 2757,
+    "sha256": "1e174c1dc4edbce9c61d6b390aca3b7b94022b60995a92981d5278247b7f5867"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/al_ip/PLL_HDMI_AUDIO.vhd",
+    "bytes": 2941,
+    "sha256": "1b5025b3fe29d4428c6aa58ef99e7c5d7c5d697e74dacd8ac8f2d068290e0e2f"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/final_timing.rpt",
+    "bytes": 1500713,
+    "sha256": "84d04d619b38a386706f5ada53a0d65c567b3e51a86ec9fa8746c6bbd8ae53e1"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/gate.qor",
+    "bytes": 6790,
+    "sha256": "55cba208935283e4c5b5a99c861b2f8eb93d10a12e28ad37f45c8ae4f00c2791"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/HDMI1.4b_Transmitter_v1.0.al",
+    "bytes": 29702,
+    "sha256": "4d95a18969a9fc634ce7440c9caa32cb67773bcda31f977299245d40b793a4e7"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/HDMI1.4b_Transmitter_v1.0_inst.bid",
+    "bytes": 80061,
+    "sha256": "5b4fe9b44aa7d783de3467bd9b5542311b7cf8d9431f4e43ce9a6ea0ef7e5971"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-03-26_14-05-52.logw",
+    "bytes": 388,
+    "sha256": "6706638d532398fc1983494d5aa92baea561e96620ea15ae31901d6f65790898"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-03-31_16-08-13.logw",
+    "bytes": 388,
+    "sha256": "9d262c55968393109baaeb14b6a91b74a84a25c8bb5fdf706560381f5e35cc00"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-04-01_12-57-42.logw",
+    "bytes": 388,
+    "sha256": "ca927ed609f0a524f1afb6b1c6706c3425d2c84f6489f9d9b2955254b88bb2ad"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-04-03_13-53-26.logw",
+    "bytes": 388,
+    "sha256": "39b8a0b40d59d71765068b7c8f3354c104542687901254505f3dfbf641f07ac4"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-04-03_14-14-25.logw",
+    "bytes": 388,
+    "sha256": "214e38c7e14df3d0ca212c2f25e20fd8c08ebf76959c9c2502eaff29e2a764bd"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-04-03_15-13-49.logw",
+    "bytes": 388,
+    "sha256": "e5c03a773fecdf18f59d9ece1b626b9a268c6395d899342366bf1edc000fb97c"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-04-08_16-11-55.logw",
+    "bytes": 388,
+    "sha256": "87feab3f432c33b87cbd9105530753af2d824900b3aef1619755251624b24fcf"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-04-09_10-34-08.logw",
+    "bytes": 858,
+    "sha256": "f0a7befd92c1d75202a5780890d74f5412136ae41a95baa492db5064a421fd86"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-04-10_10-57-29.logw",
+    "bytes": 902,
+    "sha256": "3a886ff52db3a834a208ea7e2e3675ed319edb695639215b954d7582b1847f68"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-04-13_10-10-20.logw",
+    "bytes": 388,
+    "sha256": "ed158a0e1e796d4933a0e54395110aa819d15f91b37aac6636e6c65cef811bd8"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-04-13_12-45-43.logw",
+    "bytes": 388,
+    "sha256": "acc5ab2159e6982cf068c2d09a8c1f0ca9915e65ccb778ffbd6d52009bb2ceb4"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-04-13_15-26-47.logw",
+    "bytes": 388,
+    "sha256": "3f34d6dc77b8505d519200fded7a52b2d7492829337a74f258c8298b577df7e0"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-04-14_10-54-42.logw",
+    "bytes": 388,
+    "sha256": "355a8b716a0254d0d684b550ed27e113be5b5e5a733a7f6edefc3e74ddbd8a69"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-04-14_16-24-06.logw",
+    "bytes": 388,
+    "sha256": "2081eb3f89bd0cefb2acdfe91630b40ab59fe686e36e1e6b327d29ff25684111"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-04-20_18-35-53.logw",
+    "bytes": 34322,
+    "sha256": "9c7a3248dd8b9868d6b55406ce249ffacae2dda090e604d8cf5ce24c7ca4208b"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-04-21_10-20-49.logw",
+    "bytes": 6735,
+    "sha256": "6679d5f3ddc8dc0dcd2703289416c1c8d7e61ac79889de7dfc07878c6c3bfb3f"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-04-24_14-50-39.logw",
+    "bytes": 388,
+    "sha256": "3c839c516998d0a42ab2ba641ff8a828ca0ee8365907ad3c3d55de256735f6cb"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-04-24_16-08-23.logw",
+    "bytes": 9438,
+    "sha256": "3ecd2401593e75d650aa0a43ce1d7474fa567d4d7dd86152e11f010f8cab0426"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-04-27_10-41-29.logw",
+    "bytes": 388,
+    "sha256": "8f172a84a3b476fbd170a9f1a470dca9b14fba04f032bf4cb6cb092e84a0f9b2"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-06-04_11-03-05.logw",
+    "bytes": 388,
+    "sha256": "b2ab1b84242ad96971b50d30af7c6d91efdd96c39da21f6bc3992b206aeb0bc6"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-06-05_15-00-17.logw",
+    "bytes": 673,
+    "sha256": "8ea27e171868571b6975a4f9572e1324fd9c4dc800cb10c3232a751f07cec595"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-06-05_21-13-17.logw",
+    "bytes": 1243,
+    "sha256": "217a004586a1ad5fa0f7f4b075e5f286adaf4a13c81467cd863a650e677d9ae4"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-06-05_21-59-12.logw",
+    "bytes": 388,
+    "sha256": "43296ef46173626e6367307eb0b15139128f1447a79ba67cfd43bbda183d754f"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-06-06_14-37-23.logw",
+    "bytes": 388,
+    "sha256": "04e90cf2514a8c5969017cc7ee25cd6a69ca8b6ec599f9781023e2a2daae4ed5"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-10-25_08-39-57.log",
+    "bytes": 432,
+    "sha256": "09b941ad3904e8c99bb2f5a056db186173ee1cbd2ecd3609a4af806eccd72887"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-10-25_08-39-57.logw",
+    "bytes": 432,
+    "sha256": "09b941ad3904e8c99bb2f5a056db186173ee1cbd2ecd3609a4af806eccd72887"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-10-25_09-04-18.log",
+    "bytes": 391,
+    "sha256": "04350137f3ad9f7fbc72d88e7e127bef521271fc623b97a5bf749262b2d8b8c4"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-10-25_09-04-18.logw",
+    "bytes": 391,
+    "sha256": "04350137f3ad9f7fbc72d88e7e127bef521271fc623b97a5bf749262b2d8b8c4"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-10-25_10-19-54.log",
+    "bytes": 391,
+    "sha256": "e434e3c3443de8f962fa17112296f88cbe01b5f6e6328ef20df3674388f68346"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-10-25_10-19-54.logw",
+    "bytes": 391,
+    "sha256": "e434e3c3443de8f962fa17112296f88cbe01b5f6e6328ef20df3674388f68346"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-10-25_10-32-15.log",
+    "bytes": 391,
+    "sha256": "da4425b2f8dd7f97e6a2ab39759ed332752e0654499a62b5b44f68d06477365d"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-10-25_10-32-15.logw",
+    "bytes": 391,
+    "sha256": "da4425b2f8dd7f97e6a2ab39759ed332752e0654499a62b5b44f68d06477365d"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-10-25_16-50-29.log",
+    "bytes": 395,
+    "sha256": "93632d6396aa0a79004728e7fc46f2e7e764ce8f9b18aed8c30d202ff0d14604"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-10-25_16-50-29.logw",
+    "bytes": 395,
+    "sha256": "93632d6396aa0a79004728e7fc46f2e7e764ce8f9b18aed8c30d202ff0d14604"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-10-26_20-39-29.log",
+    "bytes": 395,
+    "sha256": "2955ff1aa11bacd92e93694cecb0a6aa92d4e852cf6e89499a6a241b21e2074e"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-10-26_20-39-29.logw",
+    "bytes": 395,
+    "sha256": "2955ff1aa11bacd92e93694cecb0a6aa92d4e852cf6e89499a6a241b21e2074e"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-10-27_10-52-21.log",
+    "bytes": 32285,
+    "sha256": "a3d84f5b96528e65fb6a30678955170df924a2c73784673e1351663971d5051c"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/log/td_2026-10-27_10-52-21.logw",
+    "bytes": 1250,
+    "sha256": "599889c25b54c91f73c4a249f7acc0ea57527e697c8d820d7d5661a4ef53c0aa"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/place.qor",
+    "bytes": 1741,
+    "sha256": "6260e52bef3a9c1c4b08a246717118e869b2bc887150336d31490f43daa879e2"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/td_project/route.qor",
+    "bytes": 1313,
+    "sha256": "667662e92b521ce55f23764909904857707cbd3cb08a2cc0b637bf5c30c4f259"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/constraints_source/.edid_debug_bak.cwc",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/constraints_source/edid_debug.cwc",
+    "bytes": 59256,
+    "sha256": "6716411e2346de08976e0ad8ed2e09eb93bdc0f60efc31bf75ba70e6cebe1f95"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/constraints_source/pin.adc",
+    "bytes": 5785,
+    "sha256": "21e5b89e6879c54eaaebe8a257869b29ce2b533f9bcf447e4c33a365a2856022"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/constraints_source/timing.sdc",
+    "bytes": 1254,
+    "sha256": "03c57cf2902eea4d2ad4fe8bd9cbaef6c4a352621b681853fa1a6e0e95cc04ca"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/audio_arc_calculate.v",
+    "bytes": 1702,
+    "sha256": "552d8d86afd237666b30ae08f31247808e89eb024efde5efc670b82eb617a7dc"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/hdmi1.4b_transmitter_core/hdmi_1_4b_transmitter_core_wrapper.enc.v",
+    "bytes": 328975,
+    "sha256": "867e0b0bdd874bc383d00918c9e1be3fe01edf41f343b6a0d73e262776596a63"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/hdmi_audio_tone_i2s_64fs.v",
+    "bytes": 3589,
+    "sha256": "729cb1635091b7630e5b68306e9f51fff4e3e06bae8ce08cc3d7323b3fb9d5cf"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/hdmi_audio_tone_pcm_scale.v",
+    "bytes": 2900,
+    "sha256": "0ff1ab2b39e1294c3aae814bf5a252c47c284c2cdb9568adf02d3c6cfd8ddd0b"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/hdmi_phy_warpper.v",
+    "bytes": 4017,
+    "sha256": "416b082b0987001bdbc0a7e20a557cb8fb1dca34e25dc881e6d28a8cb3cf4300"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/I2S_receiver.v",
+    "bytes": 4205,
+    "sha256": "08904598b42c2e1a4836cd9fb3293bc6c791ea2f79e35c7663a33127dc97f47b"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/include/global_def.v",
+    "bytes": 372,
+    "sha256": "da6a16ac7e3b8d3415f45b9f18847d8e6170c7f9eb6e192c417f730977072583"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/include/sdr_as_ram.enc.v",
+    "bytes": 7538,
+    "sha256": "767dbdfbd83d42223b77dfa7deab42ce8216a8fd6f6cb41b7e7593d9a345ba57"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/include/sdr_init_ref.enc.v",
+    "bytes": 9059,
+    "sha256": "6da5945f4af793610d0d64c65c7e5d2d1c86ed4c11bc5fdeacd27eb03178b9f6"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/include/sdr_wrrd.enc.v",
+    "bytes": 15637,
+    "sha256": "c7d7fe07d75f66aa88d9f986b3006319c995162434f104f9990664b374cdfdd2"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/IP/afifo_16_256.tcl",
+    "bytes": 554,
+    "sha256": "5807155b00f2f749328339e01a85b4bb836f91598286dd167513836b60af33db"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/IP/afifo_16_256.v",
+    "bytes": 34121,
+    "sha256": "dab43a76a35e21df4064a25edb940699b041427d70bae89cc03c5280b7bf4bf8"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/IP/afifo_16_256.vhd",
+    "bytes": 1405,
+    "sha256": "50d6d10017b63e1ce5a77bad4a80e9a3de81402909d30ca0818674a1887eb46d"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/IP/afifo_16_256_sim.v",
+    "bytes": 64027,
+    "sha256": "55b81ab3aa699902b6f11fe766658b852e0740844879a942dca81cd57b40f729"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/IP/afifo_16_32_256.ipc",
+    "bytes": 856,
+    "sha256": "9df57c0b914f2f6222f88e356528947224fddb866be2468f1391c26d4e60d371"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/IP/afifo_16_32_256.tcl",
+    "bytes": 554,
+    "sha256": "5807155b00f2f749328339e01a85b4bb836f91598286dd167513836b60af33db"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/IP/afifo_16_32_256.v",
+    "bytes": 34123,
+    "sha256": "3d29b06655482184a9ad157b9bd71b79032debe3199168d3b4d9570fdac31835"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/IP/afifo_32_16_256.ipc",
+    "bytes": 857,
+    "sha256": "a74955dc68a02bbfb36780127008c4737ec80e0888a4648e98e6eac9f5d2c349"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/IP/afifo_32_16_256.tcl",
+    "bytes": 554,
+    "sha256": "5807155b00f2f749328339e01a85b4bb836f91598286dd167513836b60af33db"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/IP/afifo_32_16_256.v",
+    "bytes": 34123,
+    "sha256": "7c3ee41f30be75ae686c9abff3a840fc5439209cda077e4aa275eac0dab9f564"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/IP/sdram.ipc",
+    "bytes": 385,
+    "sha256": "c3092876d4a66739dfc52cbda4fe84eab75099218f65db7e7d922c41dee1c201"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/IP/sdram.v",
+    "bytes": 1108,
+    "sha256": "1487e8583bbf52fe6d079a2854c10ebff2e569a3872a9088c1c9717ba14d17fe"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/IP/sdram.vhd",
+    "bytes": 1336,
+    "sha256": "853170e99291fb6b2b1bf3f5f20cd1dd0cc723052864147810b674e18cd70705"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/IP/sys_pll.ipc",
+    "bytes": 1766,
+    "sha256": "6f7871463b2f41b5908813764936978e98504b32d6066b40086d3f473abe4687"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/IP/sys_pll.v",
+    "bytes": 2508,
+    "sha256": "41bd8c6dc09abbcfe51dfe6a86cafbd936423ce8eae9bdc96529d86fc6118ccd"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/IP/sys_pll.vhd",
+    "bytes": 2820,
+    "sha256": "0ba7e030d4e3d459d6e411a037b731700f4cb259be92b2e444b4deba10d301d2"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/IP/video_pll.ipc",
+    "bytes": 1451,
+    "sha256": "b717f646067025a69b4021ed85adeeb6531fad881bce5a49fcb2171ccf401076"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/IP/video_pll.v",
+    "bytes": 2323,
+    "sha256": "8065a0b215ab19ea59a0ffe1de53fda8916909f36d0a53a8906abcb0fe3f26cd"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/IP/video_pll.vhd",
+    "bytes": 2619,
+    "sha256": "4c23a8a81b28c81bed4834e1e9a757db01eebd360c7fe3a7066f8f8f7b6a36c4"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/key_remove_shakes.v",
+    "bytes": 1762,
+    "sha256": "8832f59e7ba94bfb8cf31e4f5a772ef7177d5257a5a2532d53cbfa1d9b7f5cd9"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/lane_lvds_10_1.v",
+    "bytes": 4421,
+    "sha256": "de9529321354f04837e051d0ec1681cf44783d4be3284703a788e081147500bc"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/python/1.wav",
+    "bytes": 3096678,
+    "sha256": "0e6f8f626a0215a85dfcc94e431abab32e6828dbcb64249b7d4ff47721e7b2fd"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/python/audio_1khz_24bit_48deep.mif",
+    "bytes": 690,
+    "sha256": "dcc918e3b442485a933831368567962bb39dc1060b1bcfada16033e050be34ed"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/python/audio_1khz_24bit_48deep.mif.dath",
+    "bytes": 384,
+    "sha256": "e0f242a837b58f810813e1d6da5495473c4fa16dd6b283c30ec91b608b05ab85"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/python/audio_sine_24bit_48deep_scale8.mif",
+    "bytes": 700,
+    "sha256": "aa20e68905fc41a094cf37e218489d3745eb6e46c62dabe772547961a7db64cf"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/python/audio_sine_24bit_48deep_scale8.mif.dath",
+    "bytes": 384,
+    "sha256": "04a6ea5a31be7ffebfdef11a6afb06de17ef367b4b6600ec29c248246d639f02"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/python/song_48k.mif",
+    "bytes": 12275282,
+    "sha256": "27a4b3b80627ec650d3b6f01b82a21badf7a8508d7a5e75827abf6b2de3579b9"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/python/song_48k.mif.dath",
+    "bytes": 7225344,
+    "sha256": "34d7db62bc4e6b794f1970bec7ebf2ff504763069437445a095b8cf5da3cff58"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/python/wav_to_mif.py",
+    "bytes": 2327,
+    "sha256": "70c06ae300bdaaa840f009af002805558fc4f309136db1d46e68285d2bcbd750"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/rom/i2s_rom_player_single_pll_fix64_rom_ip.v",
+    "bytes": 8375,
+    "sha256": "f8e7c9c56c6a21154580e030dada604572d89a1e75e8945125b2ea0dd4b3094b"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/SD/ax_debounce.v",
+    "bytes": 2201,
+    "sha256": "93aa6dd38051250cc7f777c88466ac180afe9bcdce7838b9ea506455d8cbc9b8"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/SD/bmp_read.v",
+    "bytes": 11339,
+    "sha256": "8b81edee7e1ac61e02652c9416c05f6a32768acd5a9639365bc7bf87fa4febaa"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/SD/color_bar.v",
+    "bytes": 9141,
+    "sha256": "afe1f56714ec58d2477ba1717e5a36c5a0da5fe5c07d70d11aa5ace710c4b152"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/SD/frame_fifo_read.v",
+    "bytes": 13197,
+    "sha256": "5f522578bf7250ade157931be7ede4a4cc60bc69e596d4e7251316f769b4a4c2"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/SD/frame_fifo_write.v",
+    "bytes": 11551,
+    "sha256": "ef0f46443b6f79ebb9fbba8f39b11dca90ee7e9ae4637c1d45786744d964e540"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/SD/frame_read_write.v",
+    "bytes": 11614,
+    "sha256": "cf422fd349f59dae7658f76eeb410afb3a128de8414aab687f0c95c4c8194149"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/SD/sd_card_bmp.v",
+    "bytes": 7346,
+    "sha256": "f0784da97a4e3ffeec5e61e60224856adccc328f72cc6aaa9a066d93fb4643ae"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/SD/sd_card_cmd.v",
+    "bytes": 8550,
+    "sha256": "a1a50502afd4e8b238b0627cd5f204c04738e761d49ab48f33da35e22ba4a5fa"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/SD/sd_card_sec_read_write.v",
+    "bytes": 5620,
+    "sha256": "c245c07e3b0056808d86e06aad74348494e2a7050d493a3d4141d97ccf115203"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/SD/sd_card_top.v",
+    "bytes": 7277,
+    "sha256": "d5031b5b809a8df0a2c8cca194a511c5f74236e810cbe5e8436359f9e5f26a39"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/SD/sdram.v",
+    "bytes": 2412,
+    "sha256": "2d985c2477384e677c25714241e1a50206def8916aa03189a5b313b2d22dfc99"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/SD/seg_decoder.v",
+    "bytes": 766,
+    "sha256": "4592b6e4d2e9e8b7e4ab5266d850d30e43537ab9c4157d4221e3f8dfd342decd"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/SD/seg_scan.v",
+    "bytes": 1847,
+    "sha256": "08759c329c33cdb7a6070e0b46773f0a6c9c8052b51652dec29406b9a9dac1e3"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/SD/spi_master.v",
+    "bytes": 3655,
+    "sha256": "37f7a21144fa5cca3cc5c3b5f68a5ad40b3108336b600e45a1367734ac61403c"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/SD/video_define.v",
+    "bytes": 21,
+    "sha256": "77748966850a8f5af0d77f2cdb08006088ba5e1a31b98391fba6cc61c5247da2"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/SD/video_delay.v",
+    "bytes": 1595,
+    "sha256": "f47c4b63f8baa6d8874c87dca5b72dfdadd19f4a107403da98752bce98936433"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/SD/video_timing_data.v",
+    "bytes": 2432,
+    "sha256": "c6f75501e98dd5995f687aafb40455beffe45b426137b5089a73ac3a036f7282"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/startup_pulse.v",
+    "bytes": 713,
+    "sha256": "396e1e56febb8028339e646bc2f06b83e07ab11ef840e447422fb941956741c9"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/test/design_top_i2s_test_pll.v",
+    "bytes": 6443,
+    "sha256": "b6396c3e90c67d7e8aad8c83bfa8a1aa0b826db8f74a26936549cae57e86668c"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/test/i2s_test_tone_gen_pll.v",
+    "bytes": 3645,
+    "sha256": "7614d4ca84c007a568e798b7c8cbc31eadd8a064bee53101194df13edb71e02f"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/top_tf_hdmi_audio.v",
+    "bytes": 22214,
+    "sha256": "64240eb6b814ffa49416adc6e7ef6b0ee3c61b7a656efab200eb5345c1d53f80"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/video_rgb_to_axis_640x480.v",
+    "bytes": 1749,
+    "sha256": "1c8fc26c789f87227036bea034f1ab6fc5633f2ab2684be422c54687a290fb96"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/video_source_test.v",
+    "bytes": 2983,
+    "sha256": "39cc05c9684a594d4254d11e66e97344053ab75bdb00f3f5a301643fd7aadbfc"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/ascii_font.hex",
+    "bytes": 8192,
+    "sha256": "a0a57aae939850eb70d04906b695869271701d4e26aade3cbfe62e9ebe0eca62"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/captions.hex",
+    "bytes": 81920,
+    "sha256": "01f5a276b3fec3a0cdefb7273bd44a89d4a213f36c419eb6c4fb5041df4e4fc2"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/voice_captions.hex",
+    "bytes": 81920,
+    "sha256": "e3f29652116429526f2bbc517ec2208118e2825d1f777b233339ef06c8df4821"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/wl_arrival_audio_gate.v",
+    "bytes": 1935,
+    "sha256": "38766ac37b39aad71faeb90ad99ecced4cafbecc4e375cc674d22f94eacf4a94"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/wl_audio_fifo.v",
+    "bytes": 1946,
+    "sha256": "6b07a73525b093cd0582bd4935957d1e1769e36766603aa9acb2b02ebfb501f7"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/wl_audio_spectrum.v",
+    "bytes": 6973,
+    "sha256": "f0644a0a3f1eaaabfcfc1e40dd2fff9eef054dd48523bbef0d30d23d5849cf89"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/wl_image_adjust.v",
+    "bytes": 3762,
+    "sha256": "78cb9477a7d2f439c6d23a6998c00a60639158c734fe861951081ba0205077c4"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/wl_image_config_source.v",
+    "bytes": 840,
+    "sha256": "e7d641427d7627d73becf0cb3524c02d8efe6f16a52adb993b1cdf0bd822bd17"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/wl_image_settings_overlay.v",
+    "bytes": 6304,
+    "sha256": "7368fc375986930a29a21ea67bfebe18a5e1eea94ca29553f9d17ffff41c55cc"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/wl_image_ui_ctrl.v",
+    "bytes": 1314,
+    "sha256": "c782d76fa1eb9f48ad9019ce73129a86ba2d1c1263a44a7494d57ad994158487"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/wl_key_debounce.v",
+    "bytes": 592,
+    "sha256": "de75c0812c4e34d2e83983b4e66f42fcf6aa5e083a8df55395b1c598acdd0c22"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/wl_key_gesture.v",
+    "bytes": 1461,
+    "sha256": "b1de203e4203b40934b4e550c5a78d2190a36a81c2963b1bc2a30c198a42eced"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/wl_media_reader.v",
+    "bytes": 7833,
+    "sha256": "9bded75ca6db4c65dd95a6cae1e5240c3ea08fa44fd8cfb63378e05223d50574"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/wl_music_menu.v",
+    "bytes": 2939,
+    "sha256": "30c4b1eea3f72152f3502de52e05bff8cbb0323c13ac7a7c6b65876819f148a1"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/wl_music_reader.v",
+    "bytes": 5916,
+    "sha256": "2e6915ccab821b6dad1011dce21a922863cae0cd3e474acf8674150cab22fdda"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/wl_osd.v",
+    "bytes": 5919,
+    "sha256": "8504df85cf773112919041bc25544086e724750de34d1d18a9adb7ffd296f9d9"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/wl_pcm_audio.v",
+    "bytes": 3883,
+    "sha256": "1d7f12e5bb4129d6126d3c78ad4bd385345e054447abdf5a463f6aff7414e30a"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/wl_playlist_ctrl.v",
+    "bytes": 3551,
+    "sha256": "d7af47b520fbc171919420ef8468741875404511a5896b4b41be04ad1959a4fb"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/wl_reset_sync.v",
+    "bytes": 360,
+    "sha256": "3031ca20d747b41a0e5d3a34add1b19d13a591162f127755c90db715c9685c8c"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/wl_scene_ctrl.v",
+    "bytes": 5015,
+    "sha256": "4a08418ccdc7e9588fb4d9805c90a3082bad5405b5dcb792a6db2e5d2aae1332"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/wl_sd_arbiter.v",
+    "bytes": 1579,
+    "sha256": "3c890b54e857aea2b4531f2c6c2024150d92e3e0550b003f2120425de082935a"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/wl_spectrum_overlay.v",
+    "bytes": 5428,
+    "sha256": "d04649bee439a33b146fa195a3c8ffe1749ecd22be898194f23106b38e671661"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/wl_station_departure.v",
+    "bytes": 890,
+    "sha256": "b82b03a942b58244b8cb3b65984449cf9fdc6895cd0fe7bf82b8563fd6f32d4b"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/wl_transition_ctrl.v",
+    "bytes": 3453,
+    "sha256": "db5e28375040b595554b0b387b2e12060ed8915747ad492a5bc0a51255d73216"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/wl_video_commit.v",
+    "bytes": 2769,
+    "sha256": "04b946cb24f5fa48fe58cf1ad755ad21fb7a12cf746796a32f990f7ba754a3eb"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/wl_video_fx.v",
+    "bytes": 1020,
+    "sha256": "70191d7f6b0820063807ec4d4d3e7b4a680f5c85d5d8fdbbe7e2b7b26c008342"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/wl_voice_ctrl.v",
+    "bytes": 6422,
+    "sha256": "623eb3078aa6ba0c210dde172248af9363617835c53098e2808b96e0fab3c33d"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/hdl_source/westlake/wl_voice_reader.v",
+    "bytes": 8499,
+    "sha256": "1bd0768de9c6ab05fbad5e735c7eba9a642b7407534921c058e9cbd18032681f"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/ip_source/pll.ipc",
+    "bytes": 2124,
+    "sha256": "5d632bad332785258c35ca41ce2b4a2a550e6bfd75be0b63a3f72403ca2ce11e"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/ip_source/pll.v",
+    "bytes": 3333,
+    "sha256": "202799f886f12cfc1d837afa932328b636c6c3dee70167be68c084133647b39c"
+  },
+  {
+    "path": "03_Project/WestLake_AV/src/user_source/ip_source/pll.vhd",
+    "bytes": 3559,
+    "sha256": "a8166865b5aef9caaee525d4633aa1dec4172244a7bbff239e0d658c0ca775e4"
+  },
+  {
+    "path": "03_Rebuild_Assets.cmd",
+    "bytes": 163,
+    "sha256": "cfd19ed97b629436849c8daf8bac77f5413398697d6fc6f1ad2cc69ce27fe3b5"
+  },
+  {
+    "path": "04_Pack_Audio.cmd",
+    "bytes": 187,
+    "sha256": "b03a7bf3bbf9cfcd782a836df287bbeb09beb7a152b4d03b9efe39a305a83081"
+  },
+  {
+    "path": "04_Sim/arrival_audio_gate.log",
+    "bytes": 6996,
+    "sha256": "0e439416b8edb9d7aff9e76263dc7a9c9a502f4dc694919d74e84bc668ef363f"
+  },
+  {
+    "path": "04_Sim/audio.log",
+    "bytes": 4517,
+    "sha256": "45570cea633d27dc0935f081ebdd0799e742751dffe7cb30e2834badc8fb8938"
+  },
+  {
+    "path": "04_Sim/audio_asset_verification.json",
+    "bytes": 426,
+    "sha256": "d0baf586323be65c143134425f539f5da07d90a0fa27fe181a9a3fefc7d87b6c"
+  },
+  {
+    "path": "04_Sim/audio_diagnostic.log",
+    "bytes": 5910,
+    "sha256": "eeaf50169160b252acead9ecb74f0faeb57d010a36723aa094b983060a6ff113"
+  },
+  {
+    "path": "04_Sim/audio_fifo.log",
+    "bytes": 4542,
+    "sha256": "d5f152101ffa1b6dfcd5ff9db058cb23cf6cafdd912e71d1b29d972de51f6711"
+  },
+  {
+    "path": "04_Sim/control.log",
+    "bytes": 4616,
+    "sha256": "7ad89846ea21fcd875f7e8f3bcd3577b94eab465768f65755b1e5f2cba97c73e"
+  },
+  {
+    "path": "04_Sim/expected_0.hex",
+    "bytes": 2457600,
+    "sha256": "7ef29968e760a3e093587ceaeb7c496b8607e6b1107e970e6e665d3ba8d08a86"
+  },
+  {
+    "path": "04_Sim/expected_1.hex",
+    "bytes": 2457600,
+    "sha256": "6b03aee6f26786ff29694e896eee13743b6e1d700f5bbe2095656af49aef4903"
+  },
+  {
+    "path": "04_Sim/expected_2.hex",
+    "bytes": 2457600,
+    "sha256": "a03a9f5d1aea84fb9cac93d85445b923e42a950da0f130a53632a3ad8557be5c"
+  },
+  {
+    "path": "04_Sim/expected_3.hex",
+    "bytes": 2457600,
+    "sha256": "e31bb8ae54da864191e44ea4ea94d3c840e12d35d5acfc9a8c75ae5a442b796e"
+  },
+  {
+    "path": "04_Sim/fade_lookup.log",
+    "bytes": 4743,
+    "sha256": "b720f6479316a0d7eb950baedf5b4d2daf6b3266184f336e0e66691548e0bfd2"
+  },
+  {
+    "path": "04_Sim/framebuffer.log",
+    "bytes": 4615,
+    "sha256": "f686f37f482f02a8f790417557136c1c570e43cf48a14a1b1d1c9d17b6105a39"
+  },
+  {
+    "path": "04_Sim/image_adjust.log",
+    "bytes": 7204,
+    "sha256": "a44797a7bc5d7fa01c6b97ca497bae52949aae72996b8bb5fe560972e43485a5"
+  },
+  {
+    "path": "04_Sim/image_adjust_direct.log",
+    "bytes": 220,
+    "sha256": "ceba44978f003d1aa12b575c59280b278496992de2c42439d054c30b6c25fbcb"
+  },
+  {
+    "path": "04_Sim/image_config_cdc.log",
+    "bytes": 7278,
+    "sha256": "d65ee7780b0013bd6c836ecde30741250386c680788b750a78f6c3ee4c6ed9f8"
+  },
+  {
+    "path": "04_Sim/image_config_cdc_direct.log",
+    "bytes": 194,
+    "sha256": "e9d7a0ee0485636df3fcc4f3e0d5ca5fbac073a74eece302884b24aa0fc3e5b1"
+  },
+  {
+    "path": "04_Sim/image_config_cdc_old_repro.log",
+    "bytes": 145,
+    "sha256": "c34dfa5adc5be3d21f4a63dcc9b65c7b4f75975e01738d4fcf4084f62cd27a23"
+  },
+  {
+    "path": "04_Sim/image_controls.log",
+    "bytes": 7288,
+    "sha256": "af5968595c26635dbf3c5f256fd62928bd05fc5f7a0c91ba7cd796dd943e4c0b"
+  },
+  {
+    "path": "04_Sim/image_settings_overlay.log",
+    "bytes": 235,
+    "sha256": "0678f995711b612bedecaeb9ae4928ac7e41879f8aa5192cf59db506e52accb8"
+  },
+  {
+    "path": "04_Sim/image_settings_overlay_direct.log",
+    "bytes": 235,
+    "sha256": "0678f995711b612bedecaeb9ae4928ac7e41879f8aa5192cf59db506e52accb8"
+  },
+  {
+    "path": "04_Sim/image_settings_preview.png",
+    "bytes": 9402,
+    "sha256": "3a7c9fe1c1e55d3f5ccdf97d5f929f70eefac19d5d44adc6140aad6e307d54c4"
+  },
+  {
+    "path": "04_Sim/image_ui_ctrl.log",
+    "bytes": 6902,
+    "sha256": "2a6f63e7a2918f5ac0c17a13e5bd4a392ebb6daa4a24ed836376ed9865362949"
+  },
+  {
+    "path": "04_Sim/input_0.hex",
+    "bytes": 2457600,
+    "sha256": "77016c09c4babb626aebff84fed2fc22e3af9eeaf2ee6349d8150ecf6fd56139"
+  },
+  {
+    "path": "04_Sim/input_1.hex",
+    "bytes": 2457600,
+    "sha256": "28097649a5ad78843095ad82469b01158818afa19cda7d25b238abc067e80bb1"
+  },
+  {
+    "path": "04_Sim/input_2.hex",
+    "bytes": 2457600,
+    "sha256": "9e780934fb112eaebe3b3b05bcd8b00019f8c5f531c6202d5c70c823c81757e3"
+  },
+  {
+    "path": "04_Sim/input_3.hex",
+    "bytes": 2457600,
+    "sha256": "4c4295b7606da2643cbe4b31d30580f5332d52644b6357f6300bc9c379564981"
+  },
+  {
+    "path": "04_Sim/key.log",
+    "bytes": 4429,
+    "sha256": "0e0e04500739ee45eed39003d79f451ae974078d53da34d896b7d0b6baee9222"
+  },
+  {
+    "path": "04_Sim/key_gesture.log",
+    "bytes": 6832,
+    "sha256": "06862d45c98571a0092068393d8c1a6ba41bcc598b6a6de5bec7ab55b2c955f5"
+  },
+  {
+    "path": "04_Sim/media.log",
+    "bytes": 5353,
+    "sha256": "117677a388d5cfbf7376d7ca9e7ed0dabcb32f1ef0b24ee58368efe82b29a3a9"
+  },
+  {
+    "path": "04_Sim/media_verification.json",
+    "bytes": 5774,
+    "sha256": "b8a6a5aa2e3ed6e7a809a59617cf072b3ad42c213274acc3ace495e5613585e3"
+  },
+  {
+    "path": "04_Sim/music_menu.log",
+    "bytes": 5098,
+    "sha256": "c41636dc5427e296bc3ab6c2035fd0afe209f3f25bf0acf7a6d1452555f8dcd0"
+  },
+  {
+    "path": "04_Sim/music_pcm.log",
+    "bytes": 5101,
+    "sha256": "4bffda6ce83a1344a0b6e1b24aa8a9248c8e1c1e4ee0f1d7cc60344088f6006d"
+  },
+  {
+    "path": "04_Sim/music_reader.log",
+    "bytes": 4621,
+    "sha256": "06f22b5e9e537d5c6973d8ac00bc2b997a6d9880413949b27755edc9fadaac1a"
+  },
+  {
+    "path": "04_Sim/music_stream.log",
+    "bytes": 4612,
+    "sha256": "c9255d3ff99ab2d0a7619c2e059fdc6d79d98d6ababdab59b665eb2be30c14e9"
+  },
+  {
+    "path": "04_Sim/osd.log",
+    "bytes": 5162,
+    "sha256": "128caebaccf8f4475fe084684e21f86b3165c02f4496f1909ea198c69952608d"
+  },
+  {
+    "path": "04_Sim/osd_rtl_0.png",
+    "bytes": 410423,
+    "sha256": "7176648c4a5ff379fcd8d29581caeabf341d60d72f474307b3607983c798023e"
+  },
+  {
+    "path": "04_Sim/osd_rtl_1.png",
+    "bytes": 324449,
+    "sha256": "da44a66244142bdf4fc798a57c696e07eca7690d0d85056e0628783b8fa46b9b"
+  },
+  {
+    "path": "04_Sim/osd_rtl_2.png",
+    "bytes": 433836,
+    "sha256": "1e80ea6c7262591a2a6bdffcb682707923101c35657cc1c1a56be6548ec93b00"
+  },
+  {
+    "path": "04_Sim/osd_rtl_3.png",
+    "bytes": 459870,
+    "sha256": "87256ccf1271317d3ea858433f355fcd5066c984c1b957897009329fd2af529d"
+  },
+  {
+    "path": "04_Sim/scene.log",
+    "bytes": 6090,
+    "sha256": "8df97b6afc35024d37a47ec5d2b2a5e9ad05b9eb070fc26a1b7d84b2746d3369"
+  },
+  {
+    "path": "04_Sim/sd_arbiter.log",
+    "bytes": 4581,
+    "sha256": "37303255e0c046f4d6309637dbe8025f21b8fc7189524eb1222e637f10a18a5a"
+  },
+  {
+    "path": "04_Sim/simulation_results.json",
+    "bytes": 2624,
+    "sha256": "44338970764935d5f22fc3edbe2102066fa078953a14660ef92eb60ba3d28f16"
+  },
+  {
+    "path": "04_Sim/spectrum.log",
+    "bytes": 5010,
+    "sha256": "6ec8f9d4763f7d4a557f9fbeb8654d615e97f3cc4c055a379ed7ff1e0891a3be"
+  },
+  {
+    "path": "04_Sim/spectrum_overlay.log",
+    "bytes": 4683,
+    "sha256": "e04383ec188eb9bd102faeb545d7f57959d92223b2ca20718517a7c0edb4365f"
+  },
+  {
+    "path": "04_Sim/spectrum_overlay_preview.png",
+    "bytes": 401654,
+    "sha256": "b9f89cbe83496c39fc73ea1ebc26f53f1fc6948aaee5b209366d2f4c7a177026"
+  },
+  {
+    "path": "04_Sim/station_departure.log",
+    "bytes": 6975,
+    "sha256": "f49c3051e877fbedc93123923f75c5a26b08c155b89f01289ce87764699f69c9"
+  },
+  {
+    "path": "04_Sim/station_hold.log",
+    "bytes": 5724,
+    "sha256": "531622aeb2f6119e61438af9058d61fab089f69be140c57048748b328ed99db2"
+  },
+  {
+    "path": "04_Sim/status.log",
+    "bytes": 5003,
+    "sha256": "940ddc9ec6000f01d21751fe2775d30cf69261b9d18d954f84fcf0e5da5d733c"
+  },
+  {
+    "path": "04_Sim/tb_arrival_audio_gate.sv",
+    "bytes": 4087,
+    "sha256": "7ca876182761a95db1cc1289a71f7fe126a9264047e70304c214d3a120687adb"
+  },
+  {
+    "path": "04_Sim/tb_audio.sv",
+    "bytes": 1805,
+    "sha256": "214a86ba57f500b4a8199d9ced0dad18574a1dd076b33ed6b62fa1eb749de9ae"
+  },
+  {
+    "path": "04_Sim/tb_audio_diagnostic.sv",
+    "bytes": 3598,
+    "sha256": "5f803f0c11ac56ddcbd0c06ddcd4ab08ef59ebce6501173c01b67f22f158e087"
+  },
+  {
+    "path": "04_Sim/tb_audio_fifo.sv",
+    "bytes": 1435,
+    "sha256": "7776845370a2cc87883f74d5551af0b24f584b9917cf118c8d7b4b8658a5485f"
+  },
+  {
+    "path": "04_Sim/tb_control.sv",
+    "bytes": 3980,
+    "sha256": "9be98fd38c0075cfe1c69948d20bde3c9902314fbc9d0880155374ab72fa29ff"
+  },
+  {
+    "path": "04_Sim/tb_fade_lookup.sv",
+    "bytes": 1277,
+    "sha256": "ee171c884313a8103821b3807a6f5434e19561f421510197efb06862df341333"
+  },
+  {
+    "path": "04_Sim/tb_framebuffer.sv",
+    "bytes": 2166,
+    "sha256": "44017123527bfb732eb0d0d65b89d2dff3d8e9be6652814b9871cacf907c3e24"
+  },
+  {
+    "path": "04_Sim/tb_image_adjust.sv",
+    "bytes": 4136,
+    "sha256": "26dc97d3efb01b75624bcd98b93bb92ce74708f65f2bc1994b91587c02750ef0"
+  },
+  {
+    "path": "04_Sim/tb_image_config_cdc.sv",
+    "bytes": 4251,
+    "sha256": "1386ca65d404e0dc09452e3d1200aa6033405ec57ff39d8dda0178d35c1a45fe"
+  },
+  {
+    "path": "04_Sim/tb_image_controls.sv",
+    "bytes": 7946,
+    "sha256": "d81ec04de16ed69fcc69c9c3d1a02c7dcd73284b38b3007aa872255c4c3006a6"
+  },
+  {
+    "path": "04_Sim/tb_image_settings_overlay.sv",
+    "bytes": 8270,
+    "sha256": "e730841a81481078b9ff5e339e29a6967b01f34581a66bd56a295ecbf77fbaaf"
+  },
+  {
+    "path": "04_Sim/tb_image_ui_ctrl.sv",
+    "bytes": 3335,
+    "sha256": "87936f92a091cfc9e45aa55a6f763afad9e480ec73e07ef78e8aa4a88284f914"
+  },
+  {
+    "path": "04_Sim/tb_key.sv",
+    "bytes": 670,
+    "sha256": "c6f8c0d6893e4568c001639bef07a89032811e9e9d6ee2153d3dff24aba0de4c"
+  },
+  {
+    "path": "04_Sim/tb_key_gesture.sv",
+    "bytes": 2464,
+    "sha256": "67868156dfac6424eab7dcc7ed31064e606fb9ec08d59942fa0b002be5019e61"
+  },
+  {
+    "path": "04_Sim/tb_media.sv",
+    "bytes": 3163,
+    "sha256": "9362964b8d837733eb9d15903a80ff45440e970aaf6053879f3ea63914be446c"
+  },
+  {
+    "path": "04_Sim/tb_music_menu.sv",
+    "bytes": 2556,
+    "sha256": "cf69d9e65f3c42181426fb7ada9050239733443ccbc796297723fd1c7eb61a25"
+  },
+  {
+    "path": "04_Sim/tb_music_pcm.sv",
+    "bytes": 5406,
+    "sha256": "6ae4e852c7db14578a9379d5b31cf1d17d7b38b1e8225521d1b99144b12afe7a"
+  },
+  {
+    "path": "04_Sim/tb_music_reader.sv",
+    "bytes": 4872,
+    "sha256": "ad677c33089437ea513db131f579c3f7e22944eb1dfd734880282fe58446528e"
+  },
+  {
+    "path": "04_Sim/tb_music_stream.sv",
+    "bytes": 6385,
+    "sha256": "bc158d4859440b5111fdb04913396bc40fdce899074feabf7897af13c15222b7"
+  },
+  {
+    "path": "04_Sim/tb_osd.sv",
+    "bytes": 1686,
+    "sha256": "c6140160f694595dc95d61b7ae8b142c80aa53c4cb9d2ac3aec1330e0b4fd380"
+  },
+  {
+    "path": "04_Sim/tb_scene.sv",
+    "bytes": 2690,
+    "sha256": "d271b7e811b6bafcf50af4f8086025a829175a1b473313bcabac926c577990d0"
+  },
+  {
+    "path": "04_Sim/tb_sd_arbiter.sv",
+    "bytes": 4303,
+    "sha256": "be0cab3cb30a6bb4b6cb98ddfc917cdb4043b3deefe1e0c0e70bd867ea367356"
+  },
+  {
+    "path": "04_Sim/tb_spectrum.sv",
+    "bytes": 2595,
+    "sha256": "0b2d9115e278460c06f4a27a81519b209a4b826a5f715119736da7e558540092"
+  },
+  {
+    "path": "04_Sim/tb_spectrum_overlay.sv",
+    "bytes": 6059,
+    "sha256": "05a4e4fe2b939f2964a3777d38f649830b172fa62ae677d5d28182913de52293"
+  },
+  {
+    "path": "04_Sim/tb_station_departure.sv",
+    "bytes": 1333,
+    "sha256": "436486fbf840a302ab587d3a03191c852a3c54a47261a6b8a422d761336f12a3"
+  },
+  {
+    "path": "04_Sim/tb_station_hold.sv",
+    "bytes": 1592,
+    "sha256": "6a2ce4721354c608e7419de8b15dc019d9ae91361ced354c0d4a6c671ef96b74"
+  },
+  {
+    "path": "04_Sim/tb_status.sv",
+    "bytes": 740,
+    "sha256": "0d9e1028b988292fa8b44795d2142535258865c68e7cf213377100c377efe576"
+  },
+  {
+    "path": "04_Sim/tb_transition.sv",
+    "bytes": 3813,
+    "sha256": "74712a6381a2c940f0db4e3b9e13f882d990cd37e10009bceccf613335c2e9eb"
+  },
+  {
+    "path": "04_Sim/tb_transition_pipeline.sv",
+    "bytes": 4680,
+    "sha256": "6bbb8c75164d3759d57048d5aad83b7a491ece2153a261d27e271901fae013e7"
+  },
+  {
+    "path": "04_Sim/tb_voice_ctrl.sv",
+    "bytes": 5697,
+    "sha256": "0b3f01e4abcf3c2071ae176c469134f4771a76d4a112142cc2e062b05036f667"
+  },
+  {
+    "path": "04_Sim/tb_voice_osd.sv",
+    "bytes": 2161,
+    "sha256": "86e90a0c6bedeb5f360e02bd848665dc09f4872f2d5da8826d53c03816166df6"
+  },
+  {
+    "path": "04_Sim/tb_voice_reader.sv",
+    "bytes": 8621,
+    "sha256": "689756eaf8e59d524c723ecbd70df11ca01582e9d80eb224156e97aba866cce9"
+  },
+  {
+    "path": "04_Sim/tb_voice_stream.sv",
+    "bytes": 10430,
+    "sha256": "016abd598913ae1331e9ee60c530da310a4c090d2c165ffd573d3b94bef40744"
+  },
+  {
+    "path": "04_Sim/transition.log",
+    "bytes": 5051,
+    "sha256": "21a0cf2fdf3259b2be35143397559a8e040850f8af0d8c718b22e996faee349b"
+  },
+  {
+    "path": "04_Sim/transition_pipeline.log",
+    "bytes": 7231,
+    "sha256": "15b06a04a7e4a5b1409e92f0f215751942b445c59173e9755eb132c9d3eb8426"
+  },
+  {
+    "path": "04_Sim/voice_asset_verification.json",
+    "bytes": 914,
+    "sha256": "8be1e046217f944f2a3575ffa97cc744ad978176f775740f6aa58ebdfe1b413e"
+  },
+  {
+    "path": "04_Sim/voice_ctrl.log",
+    "bytes": 5720,
+    "sha256": "3e34e80f57243dc95969739d02c49f08db998ad7b95f615f8c392f0dac311c9e"
+  },
+  {
+    "path": "04_Sim/voice_osd.log",
+    "bytes": 5100,
+    "sha256": "ab93e7180c9149f7a748aacb11117243dd7b042185169abddabb23a4c49fca34"
+  },
+  {
+    "path": "04_Sim/voice_reader.log",
+    "bytes": 5475,
+    "sha256": "8d721ef38ba2495ca5d7092dc9724b873840caa65e703a7f03102ec3068f20bb"
+  },
+  {
+    "path": "04_Sim/voice_stream.log",
+    "bytes": 6937,
+    "sha256": "258072ca72c9585593d9ebd9cd76aa552b6d0af52352fb3b028ded7633c1db0f"
+  },
+  {
+    "path": "04_Sim/voice_stream_direct.log",
+    "bytes": 283,
+    "sha256": "c1fcad92058dbd7f4145a1180ecc454f9267181f6878abf81bf71540d487b1ed"
+  },
+  {
+    "path": "04_Sim/四站RTL仿真输出.png",
+    "bytes": 1656072,
+    "sha256": "e79c55d29af47d9a41ad50351701ee7cde4ff9c0419f1361a25cf2513dfee4ff"
+  },
+  {
+    "path": "05_Build/download_image_program.log",
+    "bytes": 2159,
+    "sha256": "22e01481e3e77b4ed848b8d770e6efb4f3f16e874f481db5a669b01f35e44566"
+  },
+  {
+    "path": "05_Build/westlake_image/build_status.txt",
+    "bytes": 58,
+    "sha256": "0f254eee8c50cc5090e1909d2d9b9647d530eac12345337fa581cac7f00acc09"
+  },
+  {
+    "path": "05_Build/westlake_image/clocks.rpt",
+    "bytes": 194,
+    "sha256": "d12c45ef1ced10bf717f4f1b031e78c71b5795f386e6b7f285b1e12791f7b12d"
+  },
+  {
+    "path": "05_Build/westlake_image/config_flash_identity.log",
+    "bytes": 1021,
+    "sha256": "bd987071c99fa4869b01fd07cf75ce920cef4444cdffb765d1a18c1433e76e01"
+  },
+  {
+    "path": "05_Build/westlake_image/config_flash_program.log",
+    "bytes": 2139,
+    "sha256": "f1d9f4a8fb09d00173f24b5b0235fc6bdd5c068c2a26a67a481f94830ad1e0e2"
+  },
+  {
+    "path": "05_Build/westlake_image/config_flash_verify.log",
+    "bytes": 1601,
+    "sha256": "acb6a575cdeefd5450b05926819d6cefd453dca9bcf43b3592a63127b514fb80"
+  },
+  {
+    "path": "05_Build/westlake_image/exceptions.rpt",
+    "bytes": 2243,
+    "sha256": "3deb7a36853bca450be49e8ed2b7cb63993c9212a2e2c9e0f8b4cb64cfbf7d96"
+  },
+  {
+    "path": "05_Build/westlake_image/final.area",
+    "bytes": 28057,
+    "sha256": "e49f13f6a8b550b215f350c507a603b041be41b8e808a58fa8535c0413736809"
+  },
+  {
+    "path": "05_Build/westlake_image/flash_status.json",
+    "bytes": 746,
+    "sha256": "2a828f3847987e4bf418f246365871a815b0f2b5cb938b075896be7359d15a76"
+  },
+  {
+    "path": "05_Build/westlake_image/gate.area",
+    "bytes": 14570,
+    "sha256": "06ef3525622dfe477e54c95326ce4373865972df6062b10f96c6eb59082bb9aa"
+  },
+  {
+    "path": "05_Build/westlake_image/memory_initialization.bid",
+    "bytes": 80061,
+    "sha256": "5b4fe9b44aa7d783de3467bd9b5542311b7cf8d9431f4e43ce9a6ea0ef7e5971"
+  },
+  {
+    "path": "05_Build/westlake_image/source_hashes.json",
+    "bytes": 9481,
+    "sha256": "ec67906c40a0227fc4418ca2abc7aa9d2b89e221750bb0008130913da9968a61"
+  },
+  {
+    "path": "05_Build/westlake_image/timing.rpt",
+    "bytes": 1500713,
+    "sha256": "1f4b27716d8e4fe23cdd4bd25e5002607451639213a8e8a97edf7653afc4e45d"
+  },
+  {
+    "path": "05_Build/westlake_image/verification_status.json",
+    "bytes": 2157,
+    "sha256": "20f568b02e8ed8c6021f3896b5df17c1e806cd147915a9d3845d3f5474480459"
+  },
+  {
+    "path": "05_Build/westlake_image/westlake_image.bit",
+    "bytes": 668036,
+    "sha256": "8474f1a35fb50d0a8e50095f12c292352d54e5102ff7d48ac44b7f25ce68dc85"
+  },
+  {
+    "path": "05_Build/westlake_image_console.log",
+    "bytes": 147352,
+    "sha256": "31bedac07a52dc07c2962441bbe084790059c2a377d237b0203f9bffbd4f4af8"
+  },
+  {
+    "path": "06_Pack_Voice.cmd",
+    "bytes": 189,
+    "sha256": "08f44f3cb0f76039fbb49710e2b2d65982b0aeb021caba5183d9c51e94c162c0"
+  },
+  {
+    "path": "README_先读此文件.md",
+    "bytes": 5137,
+    "sha256": "3a27f93fdbd088e9798f170b9b93bb0ef04401ed0272469cd7a40653f7afc27a"
+  },
+  {
+    "path": "tools/download_audio.py",
+    "bytes": 6372,
+    "sha256": "52055b5768a5625950d632b06beb5a469eaa7c37c2614757da7cf0813986f849"
+  },
+  {
+    "path": "tools/pack_audio.py",
+    "bytes": 11542,
+    "sha256": "c80dce72bca967921c7d5b96f714fb6c7db3c5be1ba8c18bedf8429e1ec91096"
+  },
+  {
+    "path": "tools/pack_voice.py",
+    "bytes": 9334,
+    "sha256": "66d593c436e5fa5dc99d9177b742d65b0cd34bae18b0d5f0cfd5c87949c60c70"
+  },
+  {
+    "path": "tools/prepare_assets.py",
+    "bytes": 8671,
+    "sha256": "cc472b096d51a9fb84b631af5659ea549975a166e2674c83cc9d0cc0051bef3f"
+  },
+  {
+    "path": "tools/prepare_voice_captions.py",
+    "bytes": 2580,
+    "sha256": "f3d78da0b00c2add19a789553959c62e3e70100df6ac1526fc565b96ac578013"
+  },
+  {
+    "path": "tools/program_config_flash.py",
+    "bytes": 4610,
+    "sha256": "62518fac3c605319c8a41f89b1847e71f8ed6fa8b03ece473c7519fc5338e0da"
+  },
+  {
+    "path": "tools/run_sim.py",
+    "bytes": 2603,
+    "sha256": "01e8afb3dd5645a72e15b6dfdf5a349ea8299ff00590603b456276b9fc15ea1b"
+  },
+  {
+    "path": "tools/run_td.py",
+    "bytes": 3833,
+    "sha256": "ffe673af9da07d2e5842f32c7a524965debcd5730c2676b5e843b24969c6d45c"
+  },
+  {
+    "path": "tools/test_pack_audio.py",
+    "bytes": 11370,
+    "sha256": "8951fa67ce8383305ce515d5f77ef2f7967c07a70e4f052c4118da42a6f38f84"
+  },
+  {
+    "path": "tools/test_pack_voice.py",
+    "bytes": 12304,
+    "sha256": "a07a52daf21bdce014f79bd2277dcc75f787a6a63e9cff273b22b72e0c7ab88d"
+  },
+  {
+    "path": "tools/verify_audio_image.py",
+    "bytes": 3403,
+    "sha256": "97fe0e3d19fe7a54cd23a3998b1711f95234fca56948b663a415d1df63778fc1"
+  },
+  {
+    "path": "tools/verify_media.py",
+    "bytes": 4067,
+    "sha256": "60d343b45953f147b5fe1ad3471f84fd3e43ad053740757500781074b0423948"
+  },
+  {
+    "path": "tools/verify_voice_image.py",
+    "bytes": 3935,
+    "sha256": "bdcecd4d60e5b5e77fe375317d0c68f3d2104add7a51263e66f9235f91012f78"
+  },
+  {
+    "path": "tools/workflow.ps1",
+    "bytes": 2281,
+    "sha256": "8d93934fd4079af1d36c64532c34f6bad7481ad402a29c7017324d191308216c"
+  },
+  {
+    "path": "tools/第三方工具来源.md",
+    "bytes": 2719,
+    "sha256": "89910406397663d235e90c8cf37fcafa42a6ecb02374c84349a52491c5931135"
+  },
+  {
+    "path": "打包校验报告.json",
+    "bytes": 647,
+    "sha256": "b4678b6eedc3ae1626707bec3dff10410ab884ceb86f4f479c854ae8ec21ef8b"
+  }
+]

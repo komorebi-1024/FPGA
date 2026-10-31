@@ -1,0 +1,44 @@
+{
+  "result": "PASS",
+  "stations": [
+    {
+      "station": 1,
+      "frames": 558010,
+      "seconds": 11.625,
+      "cue1": 164464,
+      "cue2": 380992,
+      "lba": 196457,
+      "crc32": "7f07c701"
+    },
+    {
+      "station": 2,
+      "frames": 526738,
+      "seconds": 10.974,
+      "cue1": 121011,
+      "cue2": 353584,
+      "lba": 200817,
+      "crc32": "5afe55a0"
+    },
+    {
+      "station": 3,
+      "frames": 525125,
+      "seconds": 10.94,
+      "cue1": 120130,
+      "cue2": 353283,
+      "lba": 204933,
+      "crc32": "c9dd42bf"
+    },
+    {
+      "station": 4,
+      "frames": 551918,
+      "seconds": 11.498,
+      "cue1": 164034,
+      "cue2": 373069,
+      "lba": 209036,
+      "crc32": "9e6bba1f"
+    }
+  ],
+  "preserved_pictures": 24,
+  "preserved_music": 2,
+  "image_sha256": "361244f5724d5c983b8015e9f22630dfd6fe640aa971bdaa1aa375ec6487b36a"
+}

@@ -1,0 +1,66 @@
+D:\p1\WestLake_AV\WestLake_AV\03_Project\WestLake_AV\src\user_source\hdl_source\westlake\wl_arrival_audio_gate.v:3: warning: timescale for wl_arrival_audio_gate inherited from another file.
+D:\p1\WestLake_AV\WestLake_AV\04_Sim\tb_scene.sv:1: ...: The inherited timescale is here.
+D:\p1\WestLake_AV\WestLake_AV\03_Project\WestLake_AV\src\user_source\hdl_source\westlake\wl_audio_fifo.v:4: warning: timescale for wl_audio_fifo inherited from another file.
+D:\p1\WestLake_AV\WestLake_AV\04_Sim\tb_scene.sv:1: ...: The inherited timescale is here.
+D:\p1\WestLake_AV\WestLake_AV\03_Project\WestLake_AV\src\user_source\hdl_source\westlake\wl_audio_spectrum.v:9: warning: timescale for wl_audio_spectrum inherited from another file.
+D:\p1\WestLake_AV\WestLake_AV\04_Sim\tb_scene.sv:1: ...: The inherited timescale is here.
+D:\p1\WestLake_AV\WestLake_AV\03_Project\WestLake_AV\src\user_source\hdl_source\westlake\wl_key_debounce.v:1: warning: timescale for wl_key_debounce inherited from another file.
+D:\p1\WestLake_AV\WestLake_AV\04_Sim\tb_scene.sv:1: ...: The inherited timescale is here.
+D:\p1\WestLake_AV\WestLake_AV\03_Project\WestLake_AV\src\user_source\hdl_source\westlake\wl_media_reader.v:4: warning: timescale for wl_media_reader inherited from another file.
+D:\p1\WestLake_AV\WestLake_AV\04_Sim\tb_scene.sv:1: ...: The inherited timescale is here.
+D:\p1\WestLake_AV\WestLake_AV\03_Project\WestLake_AV\src\user_source\hdl_source\westlake\wl_music_menu.v:3: warning: timescale for wl_music_menu inherited from another file.
+D:\p1\WestLake_AV\WestLake_AV\04_Sim\tb_scene.sv:1: ...: The inherited timescale is here.
+D:\p1\WestLake_AV\WestLake_AV\03_Project\WestLake_AV\src\user_source\hdl_source\westlake\wl_music_reader.v:5: warning: timescale for wl_music_reader inherited from another file.
+D:\p1\WestLake_AV\WestLake_AV\04_Sim\tb_scene.sv:1: ...: The inherited timescale is here.
+D:\p1\WestLake_AV\WestLake_AV\03_Project\WestLake_AV\src\user_source\hdl_source\westlake\wl_osd.v:3: warning: timescale for wl_osd inherited from another file.
+D:\p1\WestLake_AV\WestLake_AV\04_Sim\tb_scene.sv:1: ...: The inherited timescale is here.
+D:\p1\WestLake_AV\WestLake_AV\03_Project\WestLake_AV\src\user_source\hdl_source\westlake\wl_pcm_audio.v:4: warning: timescale for wl_pcm_audio inherited from another file.
+D:\p1\WestLake_AV\WestLake_AV\04_Sim\tb_scene.sv:1: ...: The inherited timescale is here.
+D:\p1\WestLake_AV\WestLake_AV\03_Project\WestLake_AV\src\user_source\hdl_source\westlake\wl_playlist_ctrl.v:3: warning: timescale for wl_playlist_ctrl inherited from another file.
+D:\p1\WestLake_AV\WestLake_AV\04_Sim\tb_scene.sv:1: ...: The inherited timescale is here.
+D:\p1\WestLake_AV\WestLake_AV\03_Project\WestLake_AV\src\user_source\hdl_source\westlake\wl_reset_sync.v:2: warning: timescale for wl_reset_sync inherited from another file.
+D:\p1\WestLake_AV\WestLake_AV\04_Sim\tb_scene.sv:1: ...: The inherited timescale is here.
+D:\p1\WestLake_AV\WestLake_AV\03_Project\WestLake_AV\src\user_source\hdl_source\westlake\wl_scene_ctrl.v:5: warning: timescale for wl_scene_ctrl inherited from another file.
+D:\p1\WestLake_AV\WestLake_AV\04_Sim\tb_scene.sv:1: ...: The inherited timescale is here.
+D:\p1\WestLake_AV\WestLake_AV\03_Project\WestLake_AV\src\user_source\hdl_source\westlake\wl_sd_arbiter.v:5: warning: timescale for wl_sd_arbiter inherited from another file.
+D:\p1\WestLake_AV\WestLake_AV\04_Sim\tb_scene.sv:1: ...: The inherited timescale is here.
+D:\p1\WestLake_AV\WestLake_AV\03_Project\WestLake_AV\src\user_source\hdl_source\westlake\wl_spectrum_overlay.v:6: warning: timescale for wl_spectrum_overlay inherited from another file.
+D:\p1\WestLake_AV\WestLake_AV\04_Sim\tb_scene.sv:1: ...: The inherited timescale is here.
+D:\p1\WestLake_AV\WestLake_AV\03_Project\WestLake_AV\src\user_source\hdl_source\westlake\wl_station_departure.v:3: warning: timescale for wl_station_departure inherited from another file.
+D:\p1\WestLake_AV\WestLake_AV\04_Sim\tb_scene.sv:1: ...: The inherited timescale is here.
+D:\p1\WestLake_AV\WestLake_AV\03_Project\WestLake_AV\src\user_source\hdl_source\westlake\wl_transition_ctrl.v:5: warning: timescale for wl_transition_ctrl inherited from another file.
+D:\p1\WestLake_AV\WestLake_AV\04_Sim\tb_scene.sv:1: ...: The inherited timescale is here.
+D:\p1\WestLake_AV\WestLake_AV\03_Project\WestLake_AV\src\user_source\hdl_source\westlake\wl_video_commit.v:4: warning: timescale for wl_video_commit inherited from another file.
+D:\p1\WestLake_AV\WestLake_AV\04_Sim\tb_scene.sv:1: ...: The inherited timescale is here.
+D:\p1\WestLake_AV\WestLake_AV\03_Project\WestLake_AV\src\user_source\hdl_source\westlake\wl_video_fx.v:4: warning: timescale for wl_video_fx inherited from another file.
+D:\p1\WestLake_AV\WestLake_AV\04_Sim\tb_scene.sv:1: ...: The inherited timescale is here.
+D:\p1\WestLake_AV\WestLake_AV\03_Project\WestLake_AV\src\user_source\hdl_source\westlake\wl_voice_ctrl.v:6: warning: timescale for wl_voice_ctrl inherited from another file.
+D:\p1\WestLake_AV\WestLake_AV\04_Sim\tb_scene.sv:1: ...: The inherited timescale is here.
+D:\p1\WestLake_AV\WestLake_AV\03_Project\WestLake_AV\src\user_source\hdl_source\westlake\wl_voice_reader.v:4: warning: timescale for wl_voice_reader inherited from another file.
+D:\p1\WestLake_AV\WestLake_AV\04_Sim\tb_scene.sv:1: ...: The inherited timescale is here.
+
+t=135000 LOAD id=0
+t=245000 PUB id=0 kind=1
+PASS station0 (load0, kind1)
+t=305000 LOAD id=4
+t=415000 PUB id=0 kind=0
+t=475000 LOAD id=1
+t=585000 PUB id=1 kind=1
+cycle 1: last load_id=1
+t=645000 LOAD id=9
+t=755000 PUB id=1 kind=0
+t=815000 LOAD id=2
+t=925000 PUB id=2 kind=1
+cycle 2: last load_id=2
+t=985000 LOAD id=14
+t=1095000 PUB id=2 kind=0
+t=1155000 LOAD id=3
+t=1265000 PUB id=3 kind=1
+cycle 3: last load_id=3
+t=1325000 LOAD id=19
+t=1435000 PUB id=3 kind=0
+t=1495000 LOAD id=0
+t=1605000 PUB id=0 kind=1
+cycle 4: last load_id=0
+PASS scene: full cycle + wrap (station3 -> station0 = load 0)
+D:\p1\WestLake_AV\WestLake_AV\04_Sim\tb_scene.sv:69: $finish called at 1650000 (1ps)

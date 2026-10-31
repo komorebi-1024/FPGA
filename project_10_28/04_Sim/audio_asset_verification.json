@@ -1,0 +1,21 @@
+{
+  "result": "PASS",
+  "tracks": [
+    {
+      "track": 1,
+      "frames": 8980272,
+      "seconds": 187.089,
+      "lba": 49370,
+      "crc32": "145bf468"
+    },
+    {
+      "track": 2,
+      "frames": 9846701,
+      "seconds": 205.14,
+      "lba": 119529,
+      "crc32": "077a5c02"
+    }
+  ],
+  "preserved_bmps": 24,
+  "image_sha256": "2b50314f37d0a900c4790f6d6e1f4fb1cad16daab779719fc64bbf2c071b92fd"
+}

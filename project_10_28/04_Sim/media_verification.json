@@ -1,0 +1,206 @@
+{
+  "result": "PASS",
+  "checks": [
+    "MBR bounds",
+    "FAT32 BPB",
+    "both FAT copies equal",
+    "all cluster chains contiguous and acyclic",
+    "all BMP files identical to source",
+    "catalog ID and CRC32",
+    "BMP geometry/depth/compression"
+  ],
+  "images": [
+    {
+      "image": 0,
+      "directory_name": "S000    BMP",
+      "LBA": 6146,
+      "bytes": 921654,
+      "clusters": 1801,
+      "sha256": "1d97e19e723f4b3031939019e80ad0e6e2c37e478e6b9acf4ff30453c3ebe542"
+    },
+    {
+      "image": 1,
+      "directory_name": "S001    BMP",
+      "LBA": 7947,
+      "bytes": 921654,
+      "clusters": 1801,
+      "sha256": "4d70e61878e632ade0fdcd3d60766fa70e622adbcc09aee347acd0904e006eae"
+    },
+    {
+      "image": 2,
+      "directory_name": "S002    BMP",
+      "LBA": 9748,
+      "bytes": 921654,
+      "clusters": 1801,
+      "sha256": "7f695b8d505dd2d7e6fb9c66b95a4f4fdd371c99c216db9395f5930623ab8db8"
+    },
+    {
+      "image": 3,
+      "directory_name": "S003    BMP",
+      "LBA": 11549,
+      "bytes": 921654,
+      "clusters": 1801,
+      "sha256": "836ea1520da1b6ecb5ab47b144dd020dd03e3cd0345393103f8f0221e6f148b9"
+    },
+    {
+      "image": 4,
+      "directory_name": "P000    BMP",
+      "LBA": 13350,
+      "bytes": 921654,
+      "clusters": 1801,
+      "sha256": "cb136e83a5aa22b21e59180f8f6f993e52a006280a5041afa8fd6cb939df52af"
+    },
+    {
+      "image": 5,
+      "directory_name": "P001    BMP",
+      "LBA": 15151,
+      "bytes": 921654,
+      "clusters": 1801,
+      "sha256": "5502c190bd363a3ed8fbc30d41bed8fdf10c6a9370e512ec03832c3cd1f13d22"
+    },
+    {
+      "image": 6,
+      "directory_name": "P002    BMP",
+      "LBA": 16952,
+      "bytes": 921654,
+      "clusters": 1801,
+      "sha256": "575a71117e6c1d9de198d5d0846b0d880e937f2f7a9a151115149561f9a71c9f"
+    },
+    {
+      "image": 7,
+      "directory_name": "P003    BMP",
+      "LBA": 18753,
+      "bytes": 921654,
+      "clusters": 1801,
+      "sha256": "ad2fdb03c130bb9010c97f67a46dd16f3b17de3e0586ae5101ee1aab5a2c8ae8"
+    },
+    {
+      "image": 8,
+      "directory_name": "P004    BMP",
+      "LBA": 20554,
+      "bytes": 921654,
+      "clusters": 1801,
+      "sha256": "c3c7b629572d2b053044cf31fdd6b089f63b478ff0bfa46385b1dc38ee86654b"
+    },
+    {
+      "image": 9,
+      "directory_name": "P005    BMP",
+      "LBA": 22355,
+      "bytes": 921654,
+      "clusters": 1801,
+      "sha256": "f629f6fb2284158518a2b63645fbc37eba8f7f7f99faedb6b064ae23c710d7b6"
+    },
+    {
+      "image": 10,
+      "directory_name": "P006    BMP",
+      "LBA": 24156,
+      "bytes": 921654,
+      "clusters": 1801,
+      "sha256": "f93b01abd31157449be6b0184d6c2a3482a8fc0f469b2276cc9f61d33a6d035f"
+    },
+    {
+      "image": 11,
+      "directory_name": "P007    BMP",
+      "LBA": 25957,
+      "bytes": 921654,
+      "clusters": 1801,
+      "sha256": "378194c94d56bc3d425a78ba9e443a81682fa627794a97d30e5f26ce953737e8"
+    },
+    {
+      "image": 12,
+      "directory_name": "P008    BMP",
+      "LBA": 27758,
+      "bytes": 921654,
+      "clusters": 1801,
+      "sha256": "68d9a3db1988cabf30c9ff461c2075677d4aaf664d81e2b44fa86fc7b2f97490"
+    },
+    {
+      "image": 13,
+      "directory_name": "P009    BMP",
+      "LBA": 29559,
+      "bytes": 921654,
+      "clusters": 1801,
+      "sha256": "0d0c09f6195131f11abd3d5e202e44cbce77fdb33574b3b49876f9c679d99975"
+    },
+    {
+      "image": 14,
+      "directory_name": "P010    BMP",
+      "LBA": 31360,
+      "bytes": 921654,
+      "clusters": 1801,
+      "sha256": "ab2dc4ab78a142b86645eabc468ad609f7763b892d43a3ceebcc346e7acb29f7"
+    },
+    {
+      "image": 15,
+      "directory_name": "P011    BMP",
+      "LBA": 33161,
+      "bytes": 921654,
+      "clusters": 1801,
+      "sha256": "e4d530771c8473c95c55f32633d71d23e2ec230fd22774ba18bbe00e7c181ba0"
+    },
+    {
+      "image": 16,
+      "directory_name": "P012    BMP",
+      "LBA": 34962,
+      "bytes": 921654,
+      "clusters": 1801,
+      "sha256": "ba73448310d8e86a1afe945708d566a803261ae55f664e5261a2961fae0a01c8"
+    },
+    {
+      "image": 17,
+      "directory_name": "P013    BMP",
+      "LBA": 36763,
+      "bytes": 921654,
+      "clusters": 1801,
+      "sha256": "8c116aa1d2a06fb6317ee265d0217dc3b3b632cdab1e15b90e2bd34ba9266375"
+    },
+    {
+      "image": 18,
+      "directory_name": "P014    BMP",
+      "LBA": 38564,
+      "bytes": 921654,
+      "clusters": 1801,
+      "sha256": "989dd8ebcf9538b0c4571352a17e3551187080bc48d27fe23d456f3478cbd804"
+    },
+    {
+      "image": 19,
+      "directory_name": "P015    BMP",
+      "LBA": 40365,
+      "bytes": 921654,
+      "clusters": 1801,
+      "sha256": "b4cfef6931880cebb49d7dc24ad16f3304083e637e192496c9dbf441dccb8a3c"
+    },
+    {
+      "image": 20,
+      "directory_name": "P016    BMP",
+      "LBA": 42166,
+      "bytes": 921654,
+      "clusters": 1801,
+      "sha256": "d03db825f48fec7fab48c217da689c25f9e36595aa1b8bc08746e0231d7e5645"
+    },
+    {
+      "image": 21,
+      "directory_name": "P017    BMP",
+      "LBA": 43967,
+      "bytes": 921654,
+      "clusters": 1801,
+      "sha256": "1e56d66248165000a5751eeb19f09d65e7b56076cd304a5aaa6b2c234917b108"
+    },
+    {
+      "image": 22,
+      "directory_name": "P018    BMP",
+      "LBA": 45768,
+      "bytes": 921654,
+      "clusters": 1801,
+      "sha256": "f026022de877e35febe7b85b51749f6686ac7f121e37ac736c363d80e582ac77"
+    },
+    {
+      "image": 23,
+      "directory_name": "P019    BMP",
+      "LBA": 47569,
+      "bytes": 921654,
+      "clusters": 1801,
+      "sha256": "476d3806e30ab525a7f4fc2993098db85d3f111357252f50eb93deb482851e03"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+FATAL: tb_image_config_cdc.sv:67: latest config lost across CDC: actual=012 expected=160
+       Time: 840000  Scope: tb_image_config_cdc.frame

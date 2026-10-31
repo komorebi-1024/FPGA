@@ -1,0 +1,2 @@
+PASS image settings overlay: all labels/levels/selections, frame-atomic cfg_input, outside/closed/blank exact passthrough and sync;          10 full frames
+04_Sim\tb_image_settings_overlay.sv:158: $finish called at 30865050000 (1ps)
